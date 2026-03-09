@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Maps/TestLevel_1.umap",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BP_MainCharacter.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/ABP_MainCharacter.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/Inputs/IA_LookUpDown.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/Inputs/IM_ThirdPerson.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BS_IdleToJog.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BS_IdleToJump.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/Inputs/IA_Sprint.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BP_MainCharacter1.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BS_IdleToJogBack.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BS_IdleToJogRight.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BS_IdleToJogLeft.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Animations/ABP_MainCharacter.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Animations/BS_IdleToJog.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Animations/BS_IdleToJogBack.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Animations/BS_IdleToJogLeft.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Animations/BS_IdleToJump.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Animations/BS_IdleToJogRight.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/GroupProject/Character/BS_MainCharacter.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/SciFiWarrior/Meshes/SK_SciFiWarrior.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_159/GroupProject/Content/SciFiWarrior/Meshes/UE4_Mannequin_Skeleton_AnimBlueprint.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,4 @@
+Breadcrumbs 'Parallel'
+ - SlateUI Title = Delete Assets
+ - RenderGraphExecute - Slate
+ - Frame 10382
