@@ -2057,3 +2057,62 @@ FPackageName: Skipped package /Game/DBV/UnrealContent/StarterContent/Materials/M
 [2026.03.10-00.10.25:205][995]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
 [2026.03.10-00.10.25:211][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2026.03.10-00.10.25:276][996]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.03.10-00.10.55:619][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.10.55:754][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.10-00.10.55:774][133]LogSavePackage: Moving output files for package: /Game/GroupProject/Maps/TestLevel_1
+[2026.03.10-00.10.55:775][133]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/TestLevel_1F5DCE4AC4DEF53E16D0B6796798A21F4.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/TestLevel_1.umap'
+[2026.03.10-00.10.55:783][133]LogFileHelpers: Saving map 'TestLevel_1' took 0.076
+[2026.03.10-00.10.55:799][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.840 ms (total: 1.10 sec)
+[2026.03.10-00.10.55:872][133]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.10.55:872][133]LogContentValidation: Enabled validators:
+[2026.03.10-00.10.55:872][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.10.55:872][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.10.55:872][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.10.55:872][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.10.55:872][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.10.55:872][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.10.55:872][133]AssetCheck: /Game/GroupProject/Maps/TestLevel_1 Validating asset
+[2026.03.10-00.10.55:918][133]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.11.37:636][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1750.568848
+[2026.03.10-00.11.37:919][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-00.11.37:919][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1750.835693, Update Interval: 332.879425
+[2026.03.10-00.17.50:310][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2123.245850
+[2026.03.10-00.17.50:527][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-00.17.50:527][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2123.446045, Update Interval: 306.183655
+[2026.03.10-00.18.48:144][147]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetStringLibrary::Concat_StrStr' [Element not found.]
+[2026.03.10-00.19.40:416][680]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.10-00.20.57:635][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.20.57:690][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GroupProject/Character/BP_MainCharacter] ([2] browsable assets)...
+[2026.03.10-00.20.57:803][243]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Character/BP_MainCharacter.BP_MainCharacter]
+[2026.03.10-00.20.57:803][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Character/BP_MainCharacter]
+[2026.03.10-00.20.57:832][243]LogSavePackage: Moving output files for package: /Game/GroupProject/Character/BP_MainCharacter
+[2026.03.10-00.20.57:832][243]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_MainCharacter9B4B13EE4085DBEC552221AD3936F0FA.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Character/BP_MainCharacter.uasset'
+[2026.03.10-00.20.57:853][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.635 ms (total: 1.32 sec)
+[2026.03.10-00.20.57:935][243]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.20.57:935][243]LogContentValidation: Enabled validators:
+[2026.03.10-00.20.57:935][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.20.57:935][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.20.57:935][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.20.57:935][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.20.57:935][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.20.57:935][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.20.57:935][243]AssetCheck: /Game/GroupProject/Character/BP_MainCharacter Validating asset
+[2026.03.10-00.21.03:381][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.10-00.21.03:713][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.10-00.21.04:421][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.10-00.21.05:473][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.21.05:526][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GroupProject/Character/BP_MainCharacter] ([2] browsable assets)...
+[2026.03.10-00.21.05:583][445]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Character/BP_MainCharacter.BP_MainCharacter]
+[2026.03.10-00.21.05:583][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Character/BP_MainCharacter]
+[2026.03.10-00.21.05:605][445]LogSavePackage: Moving output files for package: /Game/GroupProject/Character/BP_MainCharacter
+[2026.03.10-00.21.05:607][445]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_MainCharacterC44BFF6140E65DEB355A2ABDC7E8AB20.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Character/BP_MainCharacter.uasset'
+[2026.03.10-00.21.05:622][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.983 ms (total: 1.47 sec)
+[2026.03.10-00.21.05:680][445]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.21.05:680][445]LogContentValidation: Enabled validators:
+[2026.03.10-00.21.05:680][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.21.05:680][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.21.05:680][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.21.05:680][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.21.05:680][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.21.05:680][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.21.05:680][445]AssetCheck: /Game/GroupProject/Character/BP_MainCharacter Validating asset
