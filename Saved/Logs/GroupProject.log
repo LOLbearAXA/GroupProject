@@ -3567,3 +3567,858 @@ FPackageName: Skipped package /Game/DBV/UnrealContent/StarterContent/Materials/M
 [2026.04.19-03.50.10:950][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.04.19-03.50.11:009][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2026.04.19-03.50.14:441][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.19-03.54.25:755][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.19-03.54.26:643][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-03.54.26:752][880]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_Treasure] ([2] browsable assets)...
+[2026.04.19-03.54.26:798][880]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_Treasure.BP_Treasure]
+[2026.04.19-03.54.26:798][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_Treasure]
+[2026.04.19-03.54.26:809][880]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_Treasure
+[2026.04.19-03.54.26:811][880]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_Treasure1EE7A1584B5179C10EAB0D93C5DDECBB.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_Treasure.uasset'
+[2026.04.19-03.54.26:821][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.501 ms (total: 662.196 ms)
+[2026.04.19-03.54.26:956][880]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-03.54.26:956][880]LogContentValidation: Enabled validators:
+[2026.04.19-03.54.26:956][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-03.54.26:956][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-03.54.26:956][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-03.54.26:956][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-03.54.26:956][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-03.54.26:956][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-03.54.26:956][880]AssetCheck: /Game/GroupProject/Placeable/BP_Treasure Validating asset
+[2026.04.19-03.54.29:491][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3188.432129
+[2026.04.19-03.54.29:624][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-03.54.29:624][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3188.548828, Update Interval: 310.028992
+[2026.04.19-03.54.33:335][259]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-03.54.33:342][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-03.54.33:362][259]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-03.54.33:366][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2026.04.19-03.54.33:366][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/TestLevel_1.TestLevel_1 to /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 (0.003816s)
+[2026.04.19-03.54.33:393][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.04.19-03.54.33:396][259]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel_1
+[2026.04.19-03.54.33:399][259]LogPlayLevel: PIE: World Init took: (0.002178s)
+[2026.04.19-03.54.33:399][259]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-03.54.33:400][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-03.54.33:400][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-03.54.33:400][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-03.54.33:400][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-03.54.33:400][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-03.54.33:401][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-03.54.33:460][259]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.19-03.54.33:461][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-03.54.33:461][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-03.54.33:461][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-03.54.33:461][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.19-03.54.33:461][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.19-03.54.33:464][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.19-03.54.33:464][259]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.19-03.54.33:464][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.19-03.54.33:464][259]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestLevel_1'.
+[2026.04.19-03.54.33:464][259]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.19-03.54.33:468][259]LogLoad: Game class is 'GameModeBase'
+[2026.04.19-03.54.33:470][259]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 up for play (max tick rate 60) at 2026.04.18-23.54.33
+[2026.04.19-03.54.33:470][259]LogWorld: Bringing up level for play took: 0.002313
+[2026.04.19-03.54.33:473][259]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.04.19-03.54.33:475][259]PIE: Server logged in
+[2026.04.19-03.54.33:478][259]PIE: Play in editor total start time 0.136 seconds.
+[2026.04.19-03.54.33:512][260]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.19-03.54.34:588][323]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:605][324]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:621][325]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:638][326]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:654][327]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:671][328]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:688][329]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:704][330]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:721][331]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:738][332]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:754][333]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:771][334]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:788][335]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:804][336]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:821][337]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:838][338]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:854][339]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:871][340]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:888][341]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:904][342]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:921][343]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:938][344]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:954][345]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:971][346]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.34:987][347]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:004][348]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:021][349]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:037][350]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:054][351]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:071][352]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:088][353]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:104][354]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:122][355]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:139][356]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:155][357]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:171][358]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:188][359]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:205][360]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:222][361]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:238][362]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:255][363]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:271][364]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:289][365]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:304][366]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:321][367]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:338][368]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:354][369]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:371][370]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:388][371]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:404][372]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:421][373]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:438][374]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:454][375]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:471][376]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:487][377]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:504][378]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:521][379]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:538][380]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:554][381]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:571][382]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:587][383]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:604][384]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:621][385]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:638][386]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:654][387]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:671][388]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:689][389]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:705][390]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:721][391]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:738][392]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:754][393]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:771][394]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:788][395]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:804][396]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:821][397]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:838][398]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:855][399]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:871][400]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:888][401]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:904][402]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:921][403]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:938][404]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:955][405]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:971][406]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.35:987][407]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:004][408]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:021][409]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:038][410]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:054][411]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:071][412]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:088][413]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:104][414]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:120][415]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:138][416]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:154][417]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:171][418]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:188][419]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:205][420]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:221][421]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:238][422]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:255][423]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:271][424]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:288][425]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:304][426]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:321][427]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:339][428]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:355][429]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:371][430]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:387][431]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:405][432]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:421][433]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:439][434]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:455][435]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:471][436]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:488][437]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:506][438]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:522][439]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:538][440]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:554][441]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:571][442]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.36:587][443]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.38:321][547]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:338][548]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:354][549]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:370][550]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:388][551]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:404][552]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:421][553]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:437][554]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:454][555]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:471][556]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:488][557]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:504][558]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:521][559]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:538][560]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:554][561]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:571][562]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:588][563]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:604][564]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:621][565]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:638][566]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:654][567]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:671][568]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:688][569]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:704][570]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:721][571]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:738][572]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:754][573]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:771][574]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:788][575]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:805][576]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:821][577]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:839][578]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:855][579]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:871][580]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:888][581]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:904][582]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:921][583]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:937][584]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:954][585]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:971][586]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.38:988][587]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.39:503][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-03.54.39:503][616]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-03.54.39:503][616]LogWorld: UWorld::CleanupWorld for TestLevel_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-03.54.39:503][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-03.54.39:505][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-03.54.39:511][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-03.54.39:538][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-03.54.39:538][616]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.19-03.54.39:538][616]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.19-03.54.39:540][616]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.19-03.54.39:546][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.19-03.54.39:586][617]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.04.19-03.54.45:860][981]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-03.54.45:868][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-03.54.45:868][981]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-03.54.45:872][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003602s)
+[2026.04.19-03.54.45:872][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/TestLevel_1.TestLevel_1 to /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 (0.003639s)
+[2026.04.19-03.54.45:899][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.19-03.54.45:901][981]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel_1
+[2026.04.19-03.54.45:902][981]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2026.04.19-03.54.45:903][981]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-03.54.45:903][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-03.54.45:903][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-03.54.45:903][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-03.54.45:903][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-03.54.45:903][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-03.54.45:906][981]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-03.54.45:961][981]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.19-03.54.45:961][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-03.54.45:961][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-03.54.45:961][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-03.54.45:962][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.19-03.54.45:962][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.19-03.54.45:964][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.19-03.54.45:964][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.19-03.54.45:964][981]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.19-03.54.45:964][981]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestLevel_1'.
+[2026.04.19-03.54.45:964][981]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.19-03.54.45:969][981]LogLoad: Game class is 'GameModeBase'
+[2026.04.19-03.54.45:970][981]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 up for play (max tick rate 60) at 2026.04.18-23.54.45
+[2026.04.19-03.54.45:971][981]LogWorld: Bringing up level for play took: 0.002386
+[2026.04.19-03.54.45:974][981]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.04.19-03.54.45:976][981]PIE: Server logged in
+[2026.04.19-03.54.45:979][981]PIE: Play in editor total start time 0.111 seconds.
+[2026.04.19-03.54.46:011][982]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.19-03.54.46:820][ 29]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:836][ 30]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:852][ 31]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:870][ 32]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:886][ 33]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:902][ 34]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:920][ 35]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:936][ 36]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:953][ 37]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:970][ 38]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.46:986][ 39]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:003][ 40]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:019][ 41]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:037][ 42]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:053][ 43]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:070][ 44]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:086][ 45]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:103][ 46]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:120][ 47]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:136][ 48]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:153][ 49]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:170][ 50]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:186][ 51]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:203][ 52]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:220][ 53]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:237][ 54]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:254][ 55]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:270][ 56]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:286][ 57]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:303][ 58]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:320][ 59]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:336][ 60]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:353][ 61]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:370][ 62]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:386][ 63]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:403][ 64]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:420][ 65]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:437][ 66]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:454][ 67]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:470][ 68]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:486][ 69]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:503][ 70]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:520][ 71]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:536][ 72]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:553][ 73]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:570][ 74]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:586][ 75]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:616][ 76]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:633][ 77]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:650][ 78]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:666][ 79]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:682][ 80]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:699][ 81]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:716][ 82]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:732][ 83]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:750][ 84]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:765][ 85]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:783][ 86]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:800][ 87]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:817][ 88]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:833][ 89]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:850][ 90]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:866][ 91]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:883][ 92]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:900][ 93]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:917][ 94]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:933][ 95]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:950][ 96]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:967][ 97]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.47:983][ 98]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:000][ 99]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:016][100]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:033][101]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:050][102]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:066][103]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:083][104]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:100][105]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:117][106]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:134][107]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:150][108]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:166][109]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:183][110]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:200][111]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:216][112]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:233][113]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:250][114]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:266][115]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:283][116]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:300][117]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:316][118]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:334][119]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:350][120]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:366][121]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:383][122]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:400][123]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:416][124]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:433][125]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:450][126]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:466][127]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:483][128]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:500][129]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:517][130]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:534][131]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:550][132]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:566][133]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:583][134]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:599][135]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:616][136]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:633][137]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.48:650][138]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:150][168]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:166][169]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:183][170]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:200][171]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:216][172]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:232][173]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:250][174]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:266][175]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:283][176]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:300][177]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:317][178]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:334][179]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:350][180]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:367][181]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:383][182]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:400][183]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:417][184]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:433][185]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:450][186]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:466][187]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:484][188]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:500][189]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-03.54.49:717][202]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:733][203]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:750][204]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:766][205]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:783][206]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:800][207]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:816][208]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:832][209]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:849][210]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:866][211]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:883][212]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:900][213]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:916][214]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:933][215]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:950][216]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:966][217]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.49:982][218]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:000][219]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:016][220]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:032][221]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:050][222]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:067][223]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:083][224]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:100][225]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:116][226]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.50:132][227]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.54.52:564][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-03.54.52:564][370]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-03.54.52:564][370]LogWorld: UWorld::CleanupWorld for TestLevel_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-03.54.52:564][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-03.54.52:566][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-03.54.52:570][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-03.54.52:598][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-03.54.52:598][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.19-03.54.52:598][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.19-03.54.52:600][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.19-03.54.52:610][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.19-03.54.52:648][371]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.04.19-03.55.45:537][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.19-03.55.47:692][526]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-03.55.47:699][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-03.55.47:699][526]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-03.55.47:702][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003462s)
+[2026.04.19-03.55.47:702][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/TestLevel_1.TestLevel_1 to /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 (0.003498s)
+[2026.04.19-03.55.47:730][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.19-03.55.47:734][526]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel_1
+[2026.04.19-03.55.47:735][526]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2026.04.19-03.55.47:736][526]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-03.55.47:736][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-03.55.47:736][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-03.55.47:736][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-03.55.47:736][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-03.55.47:736][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-03.55.47:738][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-03.55.47:793][526]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.19-03.55.47:793][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-03.55.47:794][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-03.55.47:794][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-03.55.47:794][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.19-03.55.47:794][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.19-03.55.47:796][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.19-03.55.47:796][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.19-03.55.47:796][526]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.19-03.55.47:796][526]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestLevel_1'.
+[2026.04.19-03.55.47:797][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.19-03.55.47:801][526]LogLoad: Game class is 'GameModeBase'
+[2026.04.19-03.55.47:803][526]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 up for play (max tick rate 60) at 2026.04.18-23.55.47
+[2026.04.19-03.55.47:803][526]LogWorld: Bringing up level for play took: 0.002190
+[2026.04.19-03.55.47:806][526]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.04.19-03.55.47:807][526]PIE: Server logged in
+[2026.04.19-03.55.47:811][526]PIE: Play in editor total start time 0.112 seconds.
+[2026.04.19-03.55.47:844][527]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.19-03.55.48:628][572]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:645][573]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:661][574]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:678][575]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:694][576]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:711][577]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:727][578]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:744][579]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:761][580]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:777][581]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:794][582]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:811][583]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:827][584]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:844][585]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:860][586]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:877][587]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:894][588]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:911][589]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:927][590]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:943][591]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:961][592]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:977][593]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.48:995][594]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:011][595]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:028][596]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:044][597]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:061][598]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:078][599]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:094][600]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:111][601]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:127][602]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:144][603]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:161][604]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:177][605]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:194][606]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:211][607]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:228][608]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:243][609]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:261][610]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:277][611]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:294][612]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:311][613]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:327][614]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:344][615]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:361][616]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:377][617]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:395][618]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:411][619]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:428][620]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:445][621]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:461][622]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:478][623]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:495][624]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:510][625]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:527][626]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:544][627]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:561][628]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:578][629]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:595][630]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:611][631]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:628][632]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:645][633]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:661][634]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:678][635]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:695][636]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:710][637]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:727][638]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:744][639]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:761][640]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:777][641]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:794][642]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:810][643]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:828][644]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:844][645]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:861][646]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:878][647]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:894][648]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:910][649]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:928][650]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:943][651]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:961][652]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:977][653]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.49:993][654]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:010][655]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:027][656]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:045][657]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:061][658]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:078][659]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:094][660]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:111][661]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:127][662]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:144][663]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:161][664]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:177][665]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:195][666]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:210][667]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:228][668]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:244][669]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:261][670]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:278][671]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:295][672]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:311][673]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:327][674]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:344][675]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:361][676]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:377][677]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:394][678]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:411][679]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:428][680]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:445][681]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:461][682]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:477][683]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:494][684]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:510][685]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:527][686]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:544][687]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:561][688]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:577][689]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:594][690]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:611][691]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:628][692]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:644][693]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:661][694]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:678][695]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:694][696]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:711][697]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:727][698]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:744][699]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:761][700]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.50:777][701]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:244][729]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:260][730]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:277][731]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:294][732]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:310][733]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:327][734]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:343][735]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:360][736]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:378][737]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:394][738]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:411][739]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:427][740]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.51:444][741]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.52:978][833]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.52:995][834]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:011][835]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:027][836]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:044][837]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:061][838]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:077][839]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:095][840]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:111][841]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:127][842]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:144][843]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:160][844]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:177][845]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:194][846]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:210][847]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:227][848]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:243][849]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:260][850]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:277][851]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:295][852]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:311][853]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:328][854]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:344][855]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:361][856]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:378][857]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:394][858]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:411][859]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:428][860]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:445][861]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:460][862]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:477][863]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:495][864]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:510][865]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:528][866]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:544][867]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:561][868]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:577][869]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:594][870]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:610][871]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:627][872]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:644][873]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:661][874]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:677][875]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:694][876]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:711][877]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:727][878]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:744][879]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:761][880]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:777][881]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:793][882]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:810][883]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:826][884]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:844][885]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:861][886]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:877][887]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:894][888]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:911][889]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:927][890]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:943][891]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:960][892]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:977][893]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.53:994][894]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:011][895]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:027][896]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:045][897]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:061][898]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:078][899]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:095][900]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:111][901]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:127][902]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:144][903]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:161][904]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:178][905]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:195][906]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:211][907]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:227][908]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:244][909]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:260][910]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:277][911]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:294][912]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:311][913]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:327][914]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:344][915]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:361][916]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:378][917]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:395][918]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:411][919]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:427][920]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:444][921]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:461][922]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:478][923]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:495][924]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:511][925]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:527][926]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:544][927]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:561][928]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:578][929]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:595][930]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:611][931]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:628][932]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:644][933]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:660][934]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:677][935]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:694][936]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:711][937]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:727][938]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:745][939]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:761][940]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:778][941]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:794][942]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:811][943]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:827][944]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:845][945]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.54:861][946]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-03.55.55:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-03.55.55:795][  0]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-03.55.55:795][  0]LogWorld: UWorld::CleanupWorld for TestLevel_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-03.55.55:796][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-03.55.55:798][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-03.55.55:803][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-03.55.55:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-03.55.55:830][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.19-03.55.55:830][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.19-03.55.55:833][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.19-03.55.55:843][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.19-03.55.55:884][  1]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.04.19-03.56.03:116][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-03.56.03:218][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_Treasure] ([2] browsable assets)...
+[2026.04.19-03.56.03:251][430]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_Treasure.BP_Treasure]
+[2026.04.19-03.56.03:251][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_Treasure]
+[2026.04.19-03.56.03:263][430]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_Treasure
+[2026.04.19-03.56.03:263][430]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_TreasureDAE3BA3E4C3074751455DB967E87E329.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_Treasure.uasset'
+[2026.04.19-03.56.03:273][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.163 ms (total: 819.360 ms)
+[2026.04.19-03.56.03:409][430]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-03.56.03:409][430]LogContentValidation: Enabled validators:
+[2026.04.19-03.56.03:409][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-03.56.03:409][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-03.56.03:409][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-03.56.03:409][430]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-03.56.03:409][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-03.56.03:409][430]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-03.56.03:409][430]AssetCheck: /Game/GroupProject/Placeable/BP_Treasure Validating asset
+[2026.04.19-03.56.37:167][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-03.56.37:263][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GroupProject/Placeable/BP_Treasure] ([2] browsable assets)...
+[2026.04.19-03.56.37:263][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_Treasure]
+[2026.04.19-03.56.37:274][796]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_Treasure
+[2026.04.19-03.56.37:274][796]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_Treasure4890454E4CA419D79C71AAA23D2C853D.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_Treasure.uasset'
+[2026.04.19-03.56.37:285][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.417 ms (total: 936.777 ms)
+[2026.04.19-03.56.37:416][796]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-03.56.37:416][796]LogContentValidation: Enabled validators:
+[2026.04.19-03.56.37:416][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-03.56.37:416][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-03.56.37:416][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-03.56.37:416][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-03.56.37:416][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-03.56.37:416][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-03.56.37:416][796]AssetCheck: /Game/GroupProject/Placeable/BP_Treasure Validating asset
+[2026.04.19-03.56.37:878][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.19-03.56.49:879][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.19-03.57.05:325][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-03.57.05:434][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_Treasure] ([2] browsable assets)...
+[2026.04.19-03.57.05:465][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_Treasure.BP_Treasure]
+[2026.04.19-03.57.05:465][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_Treasure]
+[2026.04.19-03.57.05:476][448]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_Treasure
+[2026.04.19-03.57.05:477][448]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_Treasure2C7F857D4D35FD07F8726CA6902AA2BE.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_Treasure.uasset'
+[2026.04.19-03.57.05:487][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.625 ms (total: 1.09 sec)
+[2026.04.19-03.57.05:635][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-03.57.05:635][448]LogContentValidation: Enabled validators:
+[2026.04.19-03.57.05:635][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-03.57.05:635][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-03.57.05:635][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-03.57.05:635][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-03.57.05:635][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-03.57.05:635][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-03.57.05:635][448]AssetCheck: /Game/GroupProject/Placeable/BP_Treasure Validating asset
+[2026.04.19-03.57.17:925][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GroupProject/Placeable/BP_ItemBase.BP_ItemBase
+[2026.04.19-03.57.17:925][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.19-04.00.12:642][313]LogContentBrowser: Attempting asset rename: Gem_Mesh -> SM_Gem
+[2026.04.19-04.00.12:806][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.00.12:806][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_Treasure] ([2] browsable assets)...
+[2026.04.19-04.00.12:832][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_Treasure.BP_Treasure]
+[2026.04.19-04.00.12:832][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_Treasure]
+[2026.04.19-04.00.12:842][313]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_Treasure
+[2026.04.19-04.00.12:842][313]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_TreasureE3A202934D2365B830420D8DC193A319.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_Treasure.uasset'
+[2026.04.19-04.00.12:845][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GroupProject/Meshes/SM_Gem] ([1] browsable assets)...
+[2026.04.19-04.00.12:845][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Meshes/SM_Gem]
+[2026.04.19-04.00.12:845][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GroupProject/Meshes/SM_Gem" FILE="../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_Gem.uasset" SILENT=true
+[2026.04.19-04.00.12:851][313]LogSavePackage: Moving output files for package: /Game/GroupProject/Meshes/SM_Gem
+[2026.04.19-04.00.12:851][313]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SM_GemEEB1B94244425770A73B03AFE83D1589.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_Gem.uasset'
+[2026.04.19-04.00.12:852][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.952 ms (total: 1.14 sec)
+[2026.04.19-04.00.12:918][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.19-04.00.12:952][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.19-04.00.12:978][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.19-04.00.13:129][313]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.19-04.00.13:130][313]LogContentValidation: Enabled validators:
+[2026.04.19-04.00.13:130][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.00.13:130][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.00.13:130][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.00.13:130][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.00.13:130][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.00.13:130][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.00.13:130][313]AssetCheck: /Game/GroupProject/Placeable/BP_Treasure Validating asset
+[2026.04.19-04.00.13:130][313]AssetCheck: /Game/GroupProject/Meshes/SM_Gem Validating asset
+[2026.04.19-04.00.13:169][313]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-04.00.18:286][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.19-04.00.18:899][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.00.18:995][649]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_Treasure] ([2] browsable assets)...
+[2026.04.19-04.00.19:031][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_Treasure.BP_Treasure]
+[2026.04.19-04.00.19:031][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_Treasure]
+[2026.04.19-04.00.19:042][649]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_Treasure
+[2026.04.19-04.00.19:043][649]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_Treasure242723E649B0CF14ECF7DBA9FB30149B.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_Treasure.uasset'
+[2026.04.19-04.00.19:053][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.608 ms (total: 1.29 sec)
+[2026.04.19-04.00.19:179][649]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.00.19:179][649]LogContentValidation: Enabled validators:
+[2026.04.19-04.00.19:179][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.00.19:179][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.00.19:179][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.00.19:179][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.00.19:179][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.00.19:179][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.00.19:179][649]AssetCheck: /Game/GroupProject/Placeable/BP_Treasure Validating asset
+[2026.04.19-04.00.21:120][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3540.044189
+[2026.04.19-04.00.21:252][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.00.21:252][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3540.161377, Update Interval: 357.853943
