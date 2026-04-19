@@ -4422,3 +4422,879 @@ FPackageName: Skipped package /Game/DBV/UnrealContent/StarterContent/Materials/M
 [2026.04.19-04.00.21:120][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3540.044189
 [2026.04.19-04.00.21:252][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.19-04.00.21:252][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3540.161377, Update Interval: 357.853943
+[2026.04.19-04.02.09:970][964]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.04.19-04.02.40:426][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.04.19-04.03.16:911][935]LogDerivedDataCache: C:/Users/olive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-04.07.03:363][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3942.276367
+[2026.04.19-04.07.03:513][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.07.03:513][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3942.410889, Update Interval: 340.280762
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Total job queries 573, among them cache hits 69 (12.04%), DDC hits 375 (65.45%), Duplicates 68 (11.87%)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Tracking 436 distinct input hashes that result in 322 distinct outputs (73.85%)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: RAM used: 3.81 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Shaders Compiled: 61
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Jobs assigned 61, completed 61 (100%)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Average time worker was idle: 244.03 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.45 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.56
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Shader code size: total 539.996 KiB, numShaders 67, average 8.06 KiB, min 1.727 KiB, max 14.137 KiB
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.86 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Jobs were issued in 61 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Average processing rate: 3.07 jobs/sec
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Total thread time: 39.767 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Total thread preprocess time: 7.345 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Percentage time preprocessing: 18.47%
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Effective parallelization: 2.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.250323
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.19 sec, max 1.23 sec, min 1.15 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   17 times, average 0.89 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    5 times, average 0.71 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.50 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 38.03% of total time (compiled   17 times, average 0.89 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.93% of total time (compiled   24 times, average 0.50 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                                  FVelocityPS - 8.88% of total time (compiled    5 times, average 0.71 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.90% of total time (compiled    9 times, average 0.35 sec, max 0.45 sec, min 0.28 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.97% of total time (compiled    2 times, average 1.19 sec, max 1.23 sec, min 1.15 sec)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Materials Translated:    149
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2026.04.19-04.07.28:230][861]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.07.40:204][579]Cmd: TRANSACTION UNDO
+[2026.04.19-04.07.40:204][579]LogEditorTransaction: Undo Set Location
+[2026.04.19-04.08.23:415][150]Cmd: MODE GRID=0
+[2026.04.19-04.08.24:115][192]Cmd: MODE GRID=1
+[2026.04.19-04.09.19:094][479]Cmd: TRANSACTION UNDO
+[2026.04.19-04.09.19:094][479]LogEditorTransaction: Undo Set Scale
+[2026.04.19-04.11.07:043][910]Cmd: EDIT COPY
+[2026.04.19-04.11.07:350][928]Cmd: DUPLICATE
+[2026.04.19-04.11.07:350][928]Cmd: ACTOR DUPLICATE
+[2026.04.19-04.11.37:982][737]Cmd: DUPLICATE
+[2026.04.19-04.11.37:982][737]Cmd: ACTOR DUPLICATE
+[2026.04.19-04.12.01:082][105]Cmd: DUPLICATE
+[2026.04.19-04.12.01:082][105]Cmd: ACTOR DUPLICATE
+[2026.04.19-04.13.29:669][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4328.587402
+[2026.04.19-04.13.29:868][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.13.29:868][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4328.769531, Update Interval: 358.621185
+[2026.04.19-04.13.43:962][162]LogSlate: Window 'Select Path' being destroyed
+[2026.04.19-04.13.44:271][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.13.44:271][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.13.44:271][162]LogStaticMesh: Display: Building static mesh SM_Health (Required Memory Estimate: 0.059741 MB)...
+[2026.04.19-04.13.44:271][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health as actor: StaticMeshActor /Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.StaticMeshActor_6
+[2026.04.19-04.13.44:274][162]LogStaticMesh: Built static mesh [0.01s] /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.13.44:281][162]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_8.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.13.44:281][162]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_4.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.13.44:281][162]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_5.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.13.44:281][162]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_6.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.13.44:281][162]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_7.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.13.44:340][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.19-04.13.50:245][511]Cmd: DELETE
+[2026.04.19-04.13.50:246][511]Cmd: ACTOR DELETE
+[2026.04.19-04.13.50:249][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-04.13.50:276][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.19-04.13.50:286][511]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.04.19-04.13.53:429][687]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.13.53:437][687]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.04.19-04.14.33:820][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.14.33:921][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GroupProject/Meshes/SM_Health] ([1] browsable assets)...
+[2026.04.19-04.14.33:928][ 45]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health]
+[2026.04.19-04.14.33:928][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Meshes/SM_Health]
+[2026.04.19-04.14.33:928][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GroupProject/Meshes/SM_Health" FILE="../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_Health.uasset" SILENT=true
+[2026.04.19-04.14.33:937][ 45]LogSavePackage: Moving output files for package: /Game/GroupProject/Meshes/SM_Health
+[2026.04.19-04.14.33:937][ 45]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SM_HealthC1728DA1433131A96C78AF8C683E737E.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_Health.uasset'
+[2026.04.19-04.14.33:948][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.218 ms (total: 1.42 sec)
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: Enabled validators:
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.14.34:080][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.14.34:080][ 45]AssetCheck: /Game/GroupProject/Meshes/SM_Health Validating asset
+[2026.04.19-04.14.34:100][ 45]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-04.14.38:713][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.14.38:880][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.19-04.14.38:901][320]LogSavePackage: Moving output files for package: /Game/GroupProject/Maps/TestLevel_1
+[2026.04.19-04.14.38:902][320]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/TestLevel_17DDB7E234A4F47DF3EDA03BBB633457C.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/TestLevel_1.umap'
+[2026.04.19-04.14.38:911][320]LogFileHelpers: Saving map 'TestLevel_1' took 0.100
+[2026.04.19-04.14.38:924][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 209.969 ms (total: 1.63 sec)
+[2026.04.19-04.14.39:068][320]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.14.39:068][320]LogContentValidation: Enabled validators:
+[2026.04.19-04.14.39:068][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.14.39:068][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.14.39:068][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.14.39:068][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.14.39:068][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.14.39:068][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.14.39:068][320]AssetCheck: /Game/GroupProject/Maps/TestLevel_1 Validating asset
+[2026.04.19-04.15.08:639][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GroupProject/Placeable/BP_HealthPickup.BP_HealthPickup
+[2026.04.19-04.15.08:639][ 52]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Total job queries 613, among them cache hits 82 (13.38%), DDC hits 385 (62.81%), Duplicates 68 (11.09%)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Tracking 463 distinct input hashes that result in 343 distinct outputs (74.08%)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: RAM used: 3.96 MiB of 1.60 GiB budget. Usage: 0.24%
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Shaders Compiled: 78
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100%)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Average time worker was idle: 215.13 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.45 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.56
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Shader code size: total 708.047 KiB, numShaders 85, average 8.329 KiB, min 1.727 KiB, max 14.973 KiB
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.94 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Total thread time: 51.071 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Total thread preprocess time: 7.846 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Percentage time preprocessing: 15.36%
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Effective parallelization: 1.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.236931
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.16 sec, max 1.28 sec, min 1.05 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 0.70 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   31 times, average 0.49 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.42% of total time (compiled   20 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.85% of total time (compiled   31 times, average 0.49 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.34% of total time (compiled    5 times, average 1.16 sec, max 1.28 sec, min 1.05 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                                  FVelocityPS - 8.26% of total time (compiled    6 times, average 0.70 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.62% of total time (compiled   11 times, average 0.35 sec, max 0.45 sec, min 0.28 sec)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Materials Translated:    149
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2026.04.19-04.16.28:254][734]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.16.50:762][ 77]Cmd: TRANSACTION UNDO
+[2026.04.19-04.16.50:762][ 77]LogEditorTransaction: Undo Edit Static Mesh
+[2026.04.19-04.16.51:793][117]Cmd: TRANSACTION UNDO
+[2026.04.19-04.16.51:793][117]LogEditorTransaction: Undo StaticMesh: Material changed
+[2026.04.19-04.16.53:658][217]Cmd: TRANSACTION UNDO
+[2026.04.19-04.16.53:658][217]LogEditorTransaction: Undo Delete Elements
+[2026.04.19-04.16.55:896][337]Cmd: TRANSACTION UNDO
+[2026.04.19-04.16.55:896][337]LogEditorTransaction: Undo Convert Actors
+[2026.04.19-04.17.33:348][495]LogSlate: Window 'Select Path' being destroyed
+[2026.04.19-04.17.33:682][495]LogStaticMesh: Display: Building static mesh SM_Health (Required Memory Estimate: 0.059741 MB)...
+[2026.04.19-04.17.33:685][495]LogStaticMesh: Built static mesh [0.00s] /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.17.33:693][495]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.17.33:693][495]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.17.33:695][495]LogActorFactory: Actor Factory spawned StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health as actor: StaticMeshActor /Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.StaticMeshActor_7
+[2026.04.19-04.17.33:698][495]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_4.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.17.33:699][495]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_5.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.17.33:699][495]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_6.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.17.33:699][495]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_7.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.17.33:699][495]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_8.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.17.33:780][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.19-04.18.07:014][444]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-04.18.07:014][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-04.18.07:061][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.19-04.18.10:319][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.18.10:319][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.18.10:319][628]LogActorFactory: Actor Factory spawned StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health as actor: StaticMeshActor /Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.StaticMeshActor_8
+[2026.04.19-04.18.11:174][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.19-04.18.11:176][677]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.04.19-04.18.11:182][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.18.11:182][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.18.11:184][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health as actor: StaticMeshActor /Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.StaticMeshActor_9
+[2026.04.19-04.18.15:854][953]Cmd: TRANSACTION UNDO
+[2026.04.19-04.18.15:854][953]LogEditorTransaction: Undo Move Elements
+[2026.04.19-04.18.16:321][966]Cmd: TRANSACTION UNDO
+[2026.04.19-04.18.16:321][966]LogEditorTransaction: Undo Move Elements
+[2026.04.19-04.18.17:144][ 12]Cmd: TRANSACTION UNDO
+[2026.04.19-04.18.17:144][ 12]LogEditorTransaction: Undo Place Objects
+[2026.04.19-04.18.18:008][ 61]Cmd: TRANSACTION UNDO
+[2026.04.19-04.18.18:008][ 61]LogEditorTransaction: Undo Convert Actors
+[2026.04.19-04.19.10:689][143]LogSlate: Window 'Select Path' being destroyed
+[2026.04.19-04.19.11:002][143]LogStaticMesh: Display: Building static mesh SM_Health (Required Memory Estimate: 0.059741 MB)...
+[2026.04.19-04.19.11:005][143]LogStaticMesh: Built static mesh [0.00s] /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.19.11:010][143]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.19.11:010][143]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.19.11:012][143]LogActorFactory: Actor Factory spawned StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health as actor: StaticMeshActor /Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.StaticMeshActor_10
+[2026.04.19-04.19.11:016][143]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_8.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.19.11:016][143]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_7.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.19.11:016][143]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_6.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.19.11:016][143]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_5.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.19.11:016][143]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_4.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.19.11:075][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.19-04.19.16:275][439]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health
+[2026.04.19-04.19.16:282][439]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Total job queries 627, among them cache hits 86 (13.72%), DDC hits 389 (62.04%), Duplicates 68 (10.85%)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Tracking 473 distinct input hashes that result in 351 distinct outputs (74.21%)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: RAM used: 4.01 MiB of 1.60 GiB budget. Usage: 0.25%
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Shaders Compiled: 84
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Jobs assigned 84, completed 84 (100%)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Average time worker was idle: 210.64 s
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.45 s
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.56
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Shader code size: total 770.652 KiB, numShaders 92, average 8.376 KiB, min 1.727 KiB, max 14.973 KiB
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.58 s
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Jobs were issued in 84 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Average processing rate: 2.84 jobs/sec
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Total thread time: 56.408 s
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Total thread preprocess time: 8.024 s
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Percentage time preprocessing: 14.23%
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Effective parallelization: 1.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.238351
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.16 sec, max 1.28 sec, min 1.05 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   21 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    7 times, average 0.71 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   33 times, average 0.49 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.82% of total time (compiled   21 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.79% of total time (compiled   33 times, average 0.49 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.37% of total time (compiled    7 times, average 1.16 sec, max 1.28 sec, min 1.05 sec)
+[2026.04.19-04.19.28:263][ 93]LogShaderCompilers: Display:                                                  FVelocityPS - 8.76% of total time (compiled    7 times, average 0.71 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.90% of total time (compiled   11 times, average 0.35 sec, max 0.45 sec, min 0.28 sec)
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: Materials Translated:    149
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2026.04.19-04.19.28:264][ 93]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.19.29:114][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.19.29:214][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GroupProject/Meshes/SM_Health] ([1] browsable assets)...
+[2026.04.19-04.19.29:221][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GroupProject/Meshes/SM_Health.SM_Health]
+[2026.04.19-04.19.29:221][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Meshes/SM_Health]
+[2026.04.19-04.19.29:221][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GroupProject/Meshes/SM_Health" FILE="../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_Health.uasset" SILENT=true
+[2026.04.19-04.19.29:229][144]LogSavePackage: Moving output files for package: /Game/GroupProject/Meshes/SM_Health
+[2026.04.19-04.19.29:230][144]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SM_Health889D930C4B37A9F33535E6827B71110C.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_Health.uasset'
+[2026.04.19-04.19.29:240][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.337 ms (total: 1.76 sec)
+[2026.04.19-04.19.29:367][144]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.19.29:367][144]LogContentValidation: Enabled validators:
+[2026.04.19-04.19.29:367][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.19.29:367][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.19.29:367][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.19.29:367][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.19.29:367][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.19.29:367][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.19.29:367][144]AssetCheck: /Game/GroupProject/Meshes/SM_Health Validating asset
+[2026.04.19-04.19.31:294][256]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-04.19.31:294][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-04.19.31:357][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.19-04.20.11:513][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4730.429688
+[2026.04.19-04.20.11:697][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.20.11:697][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4730.597168, Update Interval: 327.649780
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Total job queries 635, among them cache hits 86 (13.54%), DDC hits 392 (61.73%), Duplicates 68 (10.71%)
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Tracking 481 distinct input hashes that result in 357 distinct outputs (74.22%)
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: RAM used: 4.05 MiB of 1.60 GiB budget. Usage: 0.25%
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Shaders Compiled: 89
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100%)
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Average time worker was idle: 225.45 s
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.45 s
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Job life time (pending + execution): average 0.86 s, max 1.56
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Shader code size: total 815.695 KiB, numShaders 98, average 8.323 KiB, min 1.727 KiB, max 14.973 KiB
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.84 s
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Total thread time: 59.606 s
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Total thread preprocess time: 8.129 s
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Percentage time preprocessing: 13.64%
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Effective parallelization: 1.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.241556
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-04.22.28:278][822]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.16 sec, max 1.28 sec, min 1.05 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   22 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    8 times, average 0.70 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   34 times, average 0.49 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.59% of total time (compiled   22 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.18% of total time (compiled   34 times, average 0.49 sec, max 0.63 sec, min 0.40 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.60% of total time (compiled    7 times, average 1.16 sec, max 1.28 sec, min 1.05 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                                  FVelocityPS - 9.42% of total time (compiled    8 times, average 0.70 sec, max 0.81 sec, min 0.62 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.14% of total time (compiled   12 times, average 0.35 sec, max 0.45 sec, min 0.28 sec)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Materials Translated:    149
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2026.04.19-04.22.28:279][822]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.23.10:809][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.19-04.23.11:443][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.23.11:545][400]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_HealthPickup] ([2] browsable assets)...
+[2026.04.19-04.23.11:555][400]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_HealthPickup.BP_HealthPickup]
+[2026.04.19-04.23.11:555][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_HealthPickup]
+[2026.04.19-04.23.11:568][400]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_HealthPickup
+[2026.04.19-04.23.11:568][400]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_HealthPickupBE101B724B5EC1179EC2AD87443194F2.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_HealthPickup.uasset'
+[2026.04.19-04.23.11:578][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.750 ms (total: 1.89 sec)
+[2026.04.19-04.23.11:706][400]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.23.11:706][400]LogContentValidation: Enabled validators:
+[2026.04.19-04.23.11:706][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.23.11:706][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.23.11:706][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.23.11:706][400]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.23.11:706][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.23.11:706][400]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.23.11:706][400]AssetCheck: /Game/GroupProject/Placeable/BP_HealthPickup Validating asset
+[2026.04.19-04.23.38:130][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.19-04.23.38:660][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.23.38:761][992]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_HealthPickup] ([2] browsable assets)...
+[2026.04.19-04.23.38:768][992]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_HealthPickup.BP_HealthPickup]
+[2026.04.19-04.23.38:768][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_HealthPickup]
+[2026.04.19-04.23.38:780][992]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_HealthPickup
+[2026.04.19-04.23.38:780][992]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_HealthPickup27304C3F41F6F6FE486C99B59808B25E.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_HealthPickup.uasset'
+[2026.04.19-04.23.38:791][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.499 ms (total: 2.02 sec)
+[2026.04.19-04.23.38:921][992]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.23.38:921][992]LogContentValidation: Enabled validators:
+[2026.04.19-04.23.38:921][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.23.38:921][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.23.38:921][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.23.38:921][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.23.38:921][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.23.38:921][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.23.38:921][992]AssetCheck: /Game/GroupProject/Placeable/BP_HealthPickup Validating asset
+[2026.04.19-04.23.41:014][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-04.23.41:021][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-04.23.41:021][115]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-04.23.41:024][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003651s)
+[2026.04.19-04.23.41:024][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/TestLevel_1.TestLevel_1 to /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 (0.003696s)
+[2026.04.19-04.23.41:052][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.19-04.23.41:058][115]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel_1
+[2026.04.19-04.23.41:061][115]LogPlayLevel: PIE: World Init took: (0.001987s)
+[2026.04.19-04.23.41:061][115]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-04.23.41:062][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-04.23.41:062][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-04.23.41:062][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-04.23.41:062][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-04.23.41:062][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-04.23.41:063][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-04.23.41:121][115]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.19-04.23.41:122][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-04.23.41:122][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-04.23.41:122][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-04.23.41:122][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.19-04.23.41:122][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.19-04.23.41:125][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.19-04.23.41:125][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.19-04.23.41:125][115]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.19-04.23.41:125][115]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestLevel_1'.
+[2026.04.19-04.23.41:125][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.19-04.23.41:129][115]LogLoad: Game class is 'GameModeBase'
+[2026.04.19-04.23.41:131][115]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1.TestLevel_1 up for play (max tick rate 60) at 2026.04.19-00.23.41
+[2026.04.19-04.23.41:132][115]LogWorld: Bringing up level for play took: 0.002442
+[2026.04.19-04.23.41:135][115]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.04.19-04.23.41:137][115]PIE: Server logged in
+[2026.04.19-04.23.41:139][115]PIE: Play in editor total start time 0.119 seconds.
+[2026.04.19-04.23.41:175][116]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.19-04.23.43:133][232]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:150][233]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:167][234]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:184][235]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:200][236]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:217][237]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:232][238]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:250][239]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:266][240]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:283][241]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:300][242]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:316][243]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:333][244]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:350][245]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:367][246]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:384][247]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:400][248]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:417][249]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:434][250]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:450][251]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:466][252]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:483][253]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:500][254]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:516][255]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:533][256]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:550][257]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:567][258]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:584][259]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:600][260]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:617][261]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:634][262]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:651][263]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:666][264]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:684][265]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:700][266]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:717][267]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:734][268]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:750][269]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:766][270]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:784][271]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:800][272]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:816][273]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:834][274]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:850][275]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:867][276]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:883][277]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:901][278]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:918][279]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:934][280]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:950][281]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:967][282]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.43:984][283]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:000][284]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:017][285]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:034][286]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:050][287]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:067][288]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:084][289]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:100][290]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:116][291]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:133][292]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:150][293]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:166][294]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:182][295]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:200][296]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:216][297]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:233][298]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:250][299]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:267][300]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:284][301]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:300][302]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:317][303]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:334][304]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:350][305]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:367][306]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:384][307]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:400][308]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:416][309]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:433][310]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:450][311]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:467][312]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:484][313]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:500][314]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:517][315]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:534][316]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:550][317]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:566][318]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:583][319]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:600][320]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:616][321]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:634][322]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:651][323]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:667][324]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:684][325]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:700][326]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:717][327]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:734][328]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:750][329]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:767][330]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:783][331]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:800][332]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:817][333]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:834][334]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:850][335]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:867][336]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:884][337]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:900][338]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:917][339]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:933][340]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:950][341]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:966][342]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.44:983][343]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.45:000][344]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.45:017][345]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.45:034][346]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.45:050][347]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.45:067][348]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.45:084][349]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:582][439]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:599][440]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:616][441]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:633][442]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:649][443]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:666][444]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:683][445]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:700][446]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:717][447]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:732][448]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:750][449]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:766][450]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:783][451]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:799][452]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:817][453]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:832][454]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:849][455]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:866][456]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:883][457]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:900][458]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:916][459]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:932][460]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:950][461]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:966][462]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.46:982][463]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.47:000][464]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.47:017][465]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.47:032][466]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.47:049][467]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.47:067][468]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.47:367][486]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:382][487]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:399][488]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:417][489]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:433][490]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:450][491]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:466][492]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:482][493]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:500][494]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:517][495]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:532][496]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:549][497]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:567][498]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:582][499]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:599][500]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:616][501]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:634][502]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:650][503]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:667][504]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:682][505]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:700][506]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:717][507]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:732][508]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:750][509]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:767][510]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:784][511]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:800][512]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.47:817][513]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.48:517][555]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:532][556]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:550][557]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:566][558]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:583][559]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:599][560]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:617][561]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:632][562]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:650][563]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:666][564]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:683][565]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:700][566]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:717][567]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:734][568]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:750][569]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:767][570]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:782][571]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:800][572]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:817][573]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:832][574]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:850][575]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:866][576]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:883][577]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:900][578]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:917][579]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:932][580]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:950][581]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:967][582]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.48:983][583]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:000][584]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:017][585]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:032][586]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:050][587]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:067][588]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:082][589]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:100][590]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:117][591]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:132][592]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:150][593]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:167][594]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:183][595]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:184][595]LogBlueprintUserMessages: [BP_MainCharacter_C_1] Current Health3
+[2026.04.19-04.23.49:200][596]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:216][597]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:233][598]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:250][599]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:267][600]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:282][601]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:300][602]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:316][603]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:333][604]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.49:350][605]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.50:167][654]LogBlueprintUserMessages: [BP_MainCharacter_C_1] Current Health5
+[2026.04.19-04.23.50:517][675]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:533][676]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:550][677]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:566][678]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:584][679]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:600][680]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:617][681]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:633][682]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:650][683]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:667][684]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:684][685]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:700][686]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:717][687]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:734][688]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:750][689]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:766][690]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:783][691]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:800][692]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:817][693]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:834][694]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:850][695]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:866][696]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:882][697]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:900][698]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:917][699]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:932][700]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:950][701]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:967][702]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.50:983][703]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:000][704]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:017][705]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:032][706]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:050][707]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:067][708]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:082][709]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:100][710]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:117][711]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:132][712]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:150][713]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:167][714]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:184][715]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:200][716]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:217][717]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:232][718]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:250][719]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:267][720]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:284][721]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:300][722]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:317][723]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:332][724]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:350][725]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:367][726]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:384][727]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:400][728]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:416][729]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:434][730]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:450][731]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:467][732]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:484][733]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:500][734]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:517][735]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:532][736]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:550][737]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:567][738]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:584][739]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:600][740]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:617][741]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:632][742]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:650][743]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:667][744]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.51:683][745]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.53:251][839]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:266][840]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:284][841]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:300][842]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:317][843]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:332][844]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:350][845]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:367][846]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:382][847]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:399][848]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:417][849]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:433][850]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:449][851]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:467][852]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:482][853]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:499][854]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:517][855]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:533][856]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:550][857]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:567][858]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:582][859]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:600][860]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:617][861]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:632][862]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:650][863]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:666][864]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:683][865]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:700][866]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:717][867]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:732][868]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:750][869]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:767][870]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:782][871]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:800][872]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:817][873]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:832][874]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:850][875]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:866][876]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:883][877]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:900][878]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:916][879]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:933][880]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:950][881]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:967][882]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.53:984][883]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:000][884]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:017][885]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:032][886]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:050][887]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:067][888]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:082][889]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:100][890]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:116][891]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:133][892]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:150][893]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:167][894]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:634][922]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:649][923]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:666][924]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:684][925]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:700][926]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:717][927]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:734][928]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:750][929]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:767][930]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:782][931]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:800][932]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:817][933]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:832][934]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.54:984][943]LogBlueprintUserMessages: [BP_MainCharacter_C_1] Current Health2
+[2026.04.19-04.23.55:167][954]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:182][955]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:199][956]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:216][957]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:232][958]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:250][959]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:267][960]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:284][961]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:300][962]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:317][963]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:334][964]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.55:349][965]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.19-04.23.56:166][ 14]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:182][ 15]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:200][ 16]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:217][ 17]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:232][ 18]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:250][ 19]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:267][ 20]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:282][ 21]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:299][ 22]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:316][ 23]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:334][ 24]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:350][ 25]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:367][ 26]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:384][ 27]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:400][ 28]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:417][ 29]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:433][ 30]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:450][ 31]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:467][ 32]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:484][ 33]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:500][ 34]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:517][ 35]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:532][ 36]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:550][ 37]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:567][ 38]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:582][ 39]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:600][ 40]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:617][ 41]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:632][ 42]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:650][ 43]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:667][ 44]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:683][ 45]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:700][ 46]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:716][ 47]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:732][ 48]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:750][ 49]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:767][ 50]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:782][ 51]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:800][ 52]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:817][ 53]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:832][ 54]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:850][ 55]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:867][ 56]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:884][ 57]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:900][ 58]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:917][ 59]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:934][ 60]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:950][ 61]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:967][ 62]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.56:982][ 63]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:000][ 64]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:017][ 65]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:034][ 66]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:050][ 67]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:067][ 68]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:082][ 69]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:100][ 70]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:116][ 71]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:132][ 72]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:150][ 73]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:167][ 74]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:183][ 75]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:200][ 76]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:217][ 77]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:234][ 78]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:250][ 79]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.19-04.23.57:876][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-04.23.57:876][114]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_TestLevel_1
+[2026.04.19-04.23.57:876][114]LogWorld: UWorld::CleanupWorld for TestLevel_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-04.23.57:876][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-04.23.57:878][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-04.23.57:884][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-04.23.57:911][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-04.23.57:911][114]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.19-04.23.57:911][114]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.19-04.23.57:914][114]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.19-04.23.57:922][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.19-04.23.57:999][115]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.04.19-04.24.00:064][237]Cmd: DELETE
+[2026.04.19-04.24.00:064][237]Cmd: ACTOR DELETE
+[2026.04.19-04.24.00:067][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-04.24.00:096][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.19-04.24.00:099][237]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.04.19-04.24.56:142][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.19-04.24.56:162][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GroupProject/Maps/TestLevel_1_Auto3
+[2026.04.19-04.24.56:162][127]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/TestLevel_1_Auto32FABB8094E0E281D10BA8589844DE42C.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/Autosaves/Game/GroupProject/Maps/TestLevel_1_Auto3.umap'
+[2026.04.19-04.24.56:163][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GroupProject/Maps/TestLevel_1' took 0.049
+[2026.04.19-04.24.56:163][127]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2026.04.19-04.24.57:129][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.24.57:273][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.19-04.24.57:290][182]LogSavePackage: Moving output files for package: /Game/GroupProject/Maps/TestLevel_1
+[2026.04.19-04.24.57:290][182]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/TestLevel_1750719E74AA7A4924072989C8377B0CE.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/TestLevel_1.umap'
+[2026.04.19-04.24.57:299][182]LogFileHelpers: Saving map 'TestLevel_1' took 0.071
+[2026.04.19-04.24.57:310][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.320 ms (total: 2.21 sec)
+[2026.04.19-04.24.57:447][182]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.24.57:447][182]LogContentValidation: Enabled validators:
+[2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.24.57:447][182]AssetCheck: /Game/GroupProject/Maps/TestLevel_1 Validating asset
