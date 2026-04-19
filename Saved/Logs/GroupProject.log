@@ -5298,3 +5298,436 @@ FPackageName: Skipped package /Game/DBV/UnrealContent/StarterContent/Materials/M
 [2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.19-04.24.57:447][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.19-04.24.57:447][182]AssetCheck: /Game/GroupProject/Maps/TestLevel_1 Validating asset
+[2026.04.19-04.26.28:701][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5107.644043
+[2026.04.19-04.26.29:699][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.26.29:699][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5108.310059, Update Interval: 330.632660
+[2026.04.19-04.27.50:692][619]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.04.19-04.30.29:661][113]Cmd: TRANSACTION UNDO
+[2026.04.19-04.30.29:661][113]LogEditorTransaction: Undo Scale Elements
+[2026.04.19-04.30.35:979][468]Cmd: TRANSACTION UNDO
+[2026.04.19-04.30.35:979][468]LogEditorTransaction: Undo Scale Elements
+[2026.04.19-04.30.43:020][854]Cmd: TRANSACTION UNDO
+[2026.04.19-04.30.43:020][854]LogEditorTransaction: Undo Scale Elements
+[2026.04.19-04.30.57:732][706]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.ModelComponent_157' invalid (32 verts, 0 indices).
+[2026.04.19-04.30.59:770][825]Cmd: TRANSACTION UNDO
+[2026.04.19-04.30.59:770][825]LogEditorTransaction: Undo Scale Elements
+[2026.04.19-04.31.42:571][314]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.04.19-04.32.51:286][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5490.197754
+[2026.04.19-04.32.51:512][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.32.51:512][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5490.400391, Update Interval: 335.994141
+[2026.04.19-04.33.56:237][169]Cmd: DUPLICATE
+[2026.04.19-04.33.56:237][169]Cmd: ACTOR DUPLICATE
+[2026.04.19-04.35.21:071][132]Cmd: DUPLICATE
+[2026.04.19-04.35.21:071][132]Cmd: ACTOR DUPLICATE
+[2026.04.19-04.35.52:488][989]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.19-04.37.13:827][602]Cmd: EDIT COPY
+[2026.04.19-04.37.14:660][652]Cmd: EDIT PASTE
+[2026.04.19-04.37.24:867][245]Cmd: TRANSACTION UNDO
+[2026.04.19-04.37.24:867][245]LogEditorTransaction: Undo Paste
+[2026.04.19-04.37.24:943][245]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_14.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.37.24:943][245]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_15.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.37.24:943][245]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_16.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.37.24:943][245]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_17.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.37.24:943][245]LogGeometryMode: Warning: Unable to find Brush_9 Brush(s) in new BSP
+[2026.04.19-04.37.24:943][245]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2026.04.19-04.37.28:287][427]Cmd: EDIT PASTE
+[2026.04.19-04.38.02:764][343]Cmd: EDIT COPY
+[2026.04.19-04.38.05:148][486]Cmd: EDIT PASTE
+[2026.04.19-04.39.04:617][810]Cmd: EDIT COPY
+[2026.04.19-04.39.05:817][882]Cmd: EDIT PASTE
+[2026.04.19-04.39.16:694][505]Cmd: TRANSACTION UNDO
+[2026.04.19-04.39.16:694][505]LogEditorTransaction: Undo Move Elements
+[2026.04.19-04.39.16:869][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5875.777832
+[2026.04.19-04.39.17:068][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.39.17:068][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5875.948242, Update Interval: 310.646088
+[2026.04.19-04.39.41:024][881]Cmd: EDIT PASTE
+[2026.04.19-04.40.03:925][241]Cmd: EDIT COPY
+[2026.04.19-04.40.05:276][322]Cmd: EDIT PASTE
+[2026.04.19-04.40.17:117][ 15]Cmd: EDIT PASTE
+[2026.04.19-04.40.21:672][270]Cmd: EDIT PASTE
+[2026.04.19-04.40.40:659][387]Cmd: EDIT PASTE
+[2026.04.19-04.40.51:649][ 22]Cmd: EDIT PASTE
+[2026.04.19-04.40.57:294][335]Cmd: EDIT PASTE
+[2026.04.19-04.41.02:141][599]Cmd: EDIT PASTE
+[2026.04.19-04.41.06:160][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_132.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:213][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_133.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:266][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_134.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:318][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_135.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:371][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_136.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:423][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_137.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:475][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_138.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:526][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_139.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:575][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_140.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:627][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_141.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:675][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_142.BrushComponent0) Component already registered.
+[2026.04.19-04.41.06:724][817]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_143.BrushComponent0) Component already registered.
+[2026.04.19-04.41.10:864][ 54]Cmd: EDIT PASTE
+[2026.04.19-04.41.22:661][730]Cmd: EDIT PASTE
+[2026.04.19-04.41.26:552][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_158.BrushComponent0) Component already registered.
+[2026.04.19-04.41.26:626][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_159.BrushComponent0) Component already registered.
+[2026.04.19-04.41.26:698][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_160.BrushComponent0) Component already registered.
+[2026.04.19-04.41.26:768][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_161.BrushComponent0) Component already registered.
+[2026.04.19-04.41.26:836][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_162.BrushComponent0) Component already registered.
+[2026.04.19-04.41.26:903][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_163.BrushComponent0) Component already registered.
+[2026.04.19-04.41.26:971][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_164.BrushComponent0) Component already registered.
+[2026.04.19-04.41.27:039][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_165.BrushComponent0) Component already registered.
+[2026.04.19-04.41.27:108][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_166.BrushComponent0) Component already registered.
+[2026.04.19-04.41.27:175][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_167.BrushComponent0) Component already registered.
+[2026.04.19-04.41.27:241][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_168.BrushComponent0) Component already registered.
+[2026.04.19-04.41.27:315][936]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_169.BrushComponent0) Component already registered.
+[2026.04.19-04.41.29:911][ 81]Cmd: EDIT PASTE
+[2026.04.19-04.41.34:358][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_171.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:441][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_172.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:522][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_173.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:607][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_174.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:684][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_175.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:762][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_176.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:838][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_177.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:914][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_178.BrushComponent0) Component already registered.
+[2026.04.19-04.41.34:990][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_179.BrushComponent0) Component already registered.
+[2026.04.19-04.41.35:067][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_180.BrushComponent0) Component already registered.
+[2026.04.19-04.41.35:148][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_181.BrushComponent0) Component already registered.
+[2026.04.19-04.41.35:224][319]LogActorComponent: ~FComponentReregisterContext: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_182.BrushComponent0) Component already registered.
+[2026.04.19-04.43.01:075][702]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-04.43.10:160][ 86]Cmd: TRANSACTION UNDO
+[2026.04.19-04.43.10:160][ 86]LogEditorTransaction: Undo Clicking on Actors
+[2026.04.19-04.43.12:523][156]Cmd: TRANSACTION UNDO
+[2026.04.19-04.43.12:524][156]LogEditorTransaction: Undo Set Material
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Total job queries 653, among them cache hits 87 (13.32%), DDC hits 399 (61.10%), Duplicates 68 (10.41%)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Tracking 498 distinct input hashes that result in 369 distinct outputs (74.10%)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: RAM used: 4.14 MiB of 1.60 GiB budget. Usage: 0.25%
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Shaders Compiled: 99
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Jobs assigned 99, completed 99 (100%)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Average time worker was idle: 316.08 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.65 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.71
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Shader code size: total 914.953 KiB, numShaders 110, average 8.317 KiB, min 1.727 KiB, max 14.973 KiB
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.46 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Jobs were issued in 99 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Average processing rate: 2.87 jobs/sec
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Total thread time: 67.362 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Total thread preprocess time: 8.351 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Percentage time preprocessing: 12.40%
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Effective parallelization: 1.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.244347
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 1.19 sec, max 1.45 sec, min 1.05 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    9 times, average 0.72 sec, max 0.90 sec, min 0.62 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.72 sec, max 0.83 sec, min 0.60 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   37 times, average 0.50 sec, max 0.71 sec, min 0.40 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.20% of total time (compiled   23 times, average 0.88 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.45% of total time (compiled   37 times, average 0.50 sec, max 0.71 sec, min 0.40 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.19% of total time (compiled    8 times, average 1.19 sec, max 1.45 sec, min 1.05 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                                  FVelocityPS - 9.67% of total time (compiled    9 times, average 0.72 sec, max 0.90 sec, min 0.62 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.43% of total time (compiled   14 times, average 0.36 sec, max 0.45 sec, min 0.28 sec)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Materials Translated:    149
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2026.04.19-04.43.28:445][702]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.44.03:520][633]LogSlate: Window 'Select Path' being destroyed
+[2026.04.19-04.44.09:518][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_SpikeTrap.SM_SpikeTrap
+[2026.04.19-04.44.09:518][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GroupProject/Meshes/SM_SpikeTrap.SM_SpikeTrap
+[2026.04.19-04.44.09:519][633]LogStaticMesh: Display: Building static mesh SM_SpikeTrap (Required Memory Estimate: 6.566085 MB)...
+[2026.04.19-04.44.09:533][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/GroupProject/Meshes/SM_SpikeTrap.SM_SpikeTrap as actor: StaticMeshActor /Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.StaticMeshActor_11
+[2026.04.19-04.44.09:549][633]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/GroupProject/Meshes/SM_SpikeTrap) ...
+[2026.04.19-04.44.09:567][633]LogStaticMesh: Built static mesh [0.05s] /Game/GroupProject/Meshes/SM_SpikeTrap.SM_SpikeTrap
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_182.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_9.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_11.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_12.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_13.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_18.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_19.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_20.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_21.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_22.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_23.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_24.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_25.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_26.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_27.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_28.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_29.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_30.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_31.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_32.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_33.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_34.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_35.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_36.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_37.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_38.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_39.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_40.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_41.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_42.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_43.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_44.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_45.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_46.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_47.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_48.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_49.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_50.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_51.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_52.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_53.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_54.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_55.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_56.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_57.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_58.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_59.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_60.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_61.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_62.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_63.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_64.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_65.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_66.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_67.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:610][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_68.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_69.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_70.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_71.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_72.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_73.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_74.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_75.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_76.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_77.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_78.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_79.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_80.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_81.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_82.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_83.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_84.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_85.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_86.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_87.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_88.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_89.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_90.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_91.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_92.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_93.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_94.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_95.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_96.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_97.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_98.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_99.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_100.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_101.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_102.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_103.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_104.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_105.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_106.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_107.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_108.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_109.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_110.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_111.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_112.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_113.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_114.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_115.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_116.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_117.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_118.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_119.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_120.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_121.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_122.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_123.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_124.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_125.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_126.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_127.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_128.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_129.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_130.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_131.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_132.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_133.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_134.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_135.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_136.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_137.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_138.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_139.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_140.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_141.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_142.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_143.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_144.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_145.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_146.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_147.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_148.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_149.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_150.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_151.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_152.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_153.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_154.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_155.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_156.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_157.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_158.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_159.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_160.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_161.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_162.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_163.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_164.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_165.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_166.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:611][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_167.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_168.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_169.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_170.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_171.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_172.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_173.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_174.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_175.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_176.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_177.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_178.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_179.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_180.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_181.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:612][633]LogActorComponent: RegisterComponentWithWorld: (/Game/GroupProject/Maps/TestLevel_1.TestLevel_1:PersistentLevel.Brush_10.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.04.19-04.44.09:680][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.04.19-04.44.18:899][122]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/GroupProject/Meshes/SM_SpikeTrap.SM_SpikeTrap
+[2026.04.19-04.44.18:909][122]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.04.19-04.44.35:127][ 10]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-04.44.53:098][988]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-04.45.00:502][405]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-04.45.06:366][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6225.312988
+[2026.04.19-04.45.06:498][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-04.45.06:498][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6225.416016, Update Interval: 347.482544
+[2026.04.19-04.45.07:821][826]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-04.46.02:593][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.46.02:689][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GroupProject/Meshes/SM_SpikeTrap] ([1] browsable assets)...
+[2026.04.19-04.46.02:696][ 26]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GroupProject/Meshes/SM_SpikeTrap.SM_SpikeTrap]
+[2026.04.19-04.46.02:696][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Meshes/SM_SpikeTrap]
+[2026.04.19-04.46.02:708][ 26]LogSavePackage: Moving output files for package: /Game/GroupProject/Meshes/SM_SpikeTrap
+[2026.04.19-04.46.02:708][ 26]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SM_SpikeTrap1BF8ECC34951749C948DEB9FF964CFAF.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Meshes/SM_SpikeTrap.uasset'
+[2026.04.19-04.46.02:720][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.435 ms (total: 2.33 sec)
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: Enabled validators:
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.46.02:848][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.46.02:848][ 26]AssetCheck: /Game/GroupProject/Meshes/SM_SpikeTrap Validating asset
+[2026.04.19-04.46.02:872][ 26]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-04.46.04:015][ 92]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-04.46.04:015][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-04.46.04:095][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.19-04.46.08:123][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.46.08:273][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.19-04.46.08:292][333]LogSavePackage: Moving output files for package: /Game/GroupProject/Maps/TestLevel_1
+[2026.04.19-04.46.08:292][333]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/TestLevel_1C73D88C449183D38EF3EFEA0394685AB.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/TestLevel_1.umap'
+[2026.04.19-04.46.08:301][333]LogFileHelpers: Saving map 'TestLevel_1' took 0.084
+[2026.04.19-04.46.08:312][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.211 ms (total: 2.52 sec)
+[2026.04.19-04.46.08:438][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.46.08:438][333]LogContentValidation: Enabled validators:
+[2026.04.19-04.46.08:438][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.46.08:438][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.46.08:438][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.46.08:438][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.46.08:438][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.46.08:438][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.46.08:438][333]AssetCheck: /Game/GroupProject/Maps/TestLevel_1 Validating asset
+[2026.04.19-04.46.20:003][983]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GroupProject/Placeable/BP_HazardSpike.BP_HazardSpike
+[2026.04.19-04.46.20:005][983]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Total job queries 751, among them cache hits 116 (15.45%), DDC hits 423 (56.32%), Duplicates 68 (9.05%)
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Tracking 567 distinct input hashes that result in 420 distinct outputs (74.07%)
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: RAM used: 4.53 MiB of 1.60 GiB budget. Usage: 0.28%
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Shaders Compiled: 144
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Jobs assigned 144, completed 144 (100%)
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Average time worker was idle: 218.82 s
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.65 s
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 1.71
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Shader code size: total 1.297 MiB, numShaders 159, average 8.358 KiB, min 1.727 KiB, max 14.973 KiB
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.81 s
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Jobs were issued in 144 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Average processing rate: 2.78 jobs/sec
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Total thread time: 95.682 s
+[2026.04.19-04.46.28:459][453]LogShaderCompilers: Display: Total thread preprocess time: 9.568 s
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Percentage time preprocessing: 10.00%
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.230856
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 1.14 sec, max 1.45 sec, min 1.03 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   30 times, average 0.87 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.73 sec, max 0.83 sec, min 0.60 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   12 times, average 0.72 sec, max 0.90 sec, min 0.62 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   56 times, average 0.48 sec, max 0.71 sec, min 0.39 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.31% of total time (compiled   56 times, average 0.48 sec, max 0.71 sec, min 0.39 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.39% of total time (compiled   30 times, average 0.87 sec, max 1.05 sec, min 0.74 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.72% of total time (compiled   14 times, average 1.14 sec, max 1.45 sec, min 1.03 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                                  FVelocityPS - 9.08% of total time (compiled   12 times, average 0.72 sec, max 0.90 sec, min 0.62 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.02% of total time (compiled   22 times, average 0.35 sec, max 0.45 sec, min 0.27 sec)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Materials Translated:    150
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2026.04.19-04.46.28:460][453]LogShaderCompilers: Display: ================================================
+[2026.04.19-04.50.20:208][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.19-04.50.21:041][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.50.21:141][119]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GroupProject/Placeable/BP_HazardSpike] ([2] browsable assets)...
+[2026.04.19-04.50.21:147][119]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GroupProject/Placeable/BP_HazardSpike.BP_HazardSpike]
+[2026.04.19-04.50.21:147][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/GroupProject/Placeable/BP_HazardSpike]
+[2026.04.19-04.50.21:157][119]LogSavePackage: Moving output files for package: /Game/GroupProject/Placeable/BP_HazardSpike
+[2026.04.19-04.50.21:158][119]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/BP_HazardSpike35D815E24381F0E2DB250F9287936863.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Placeable/BP_HazardSpike.uasset'
+[2026.04.19-04.50.21:169][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.213 ms (total: 2.65 sec)
+[2026.04.19-04.50.21:305][119]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.50.21:305][119]LogContentValidation: Enabled validators:
+[2026.04.19-04.50.21:305][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.50.21:305][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.50.21:305][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.50.21:305][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.50.21:305][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.50.21:305][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.50.21:305][119]AssetCheck: /Game/GroupProject/Placeable/BP_HazardSpike Validating asset
+[2026.04.19-04.50.29:458][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-04.50.29:614][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.19-04.50.29:637][603]LogSavePackage: Moving output files for package: /Game/GroupProject/Maps/TestLevel_1
+[2026.04.19-04.50.29:638][603]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/TestLevel_1B52F4E8D4EA6204F070F2A899160B10D.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/TestLevel_1.umap'
+[2026.04.19-04.50.29:646][603]LogFileHelpers: Saving map 'TestLevel_1' took 0.088
+[2026.04.19-04.50.29:657][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.150 ms (total: 2.85 sec)
+[2026.04.19-04.50.29:787][603]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-04.50.29:787][603]LogContentValidation: Enabled validators:
+[2026.04.19-04.50.29:787][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-04.50.29:787][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-04.50.29:787][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-04.50.29:787][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-04.50.29:787][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-04.50.29:787][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-04.50.29:787][603]AssetCheck: /Game/GroupProject/Maps/TestLevel_1 Validating asset
