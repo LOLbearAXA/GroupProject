@@ -1466,3 +1466,1828 @@ FPackageName: Skipped package /Game/DBV/UnrealContent/StarterContent/Materials/M
 [2026.04.21-02.28.46:166][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.21-02.28.46:167][567]AssetCheck: /Game/GroupProject/Maps/Level_Turtorial Validating asset
 [2026.04.21-02.28.46:189][567]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.21-02.29.58:008][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 308.270813
+[2026.04.21-02.29.58:138][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-02.29.58:139][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 308.386292, Update Interval: 330.962250
+[2026.04.21-02.30.04:269][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.04.21-02.30.04:273][969]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-02.30.04:331][969]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.21-02.30.04:338][969]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.21-02.30.04:342][969]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.21-02.30.04:348][969]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.04.21-02.30.04:348][969]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.04.21-02.30.04:348][969]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.21-02.30.04:353][969]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.04.21-02.30.04:359][969]LogTexture: Display: Building textures: /Game/GroupProject/Maps/Level_1_O.Level_1_O:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.21-02.30.04:478][969]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1_O
+[2026.04.21-02.30.04:490][969]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GroupProject/Maps/Level_1_O.Level_1_O
+[2026.04.21-02.30.04:490][969]Cmd: MAP LOAD FILE="../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/Level_1_O.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.21-02.30.04:511][969]LogWorld: UWorld::CleanupWorld for Level_Turtorial, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-02.30.04:511][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.30.04:530][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.21-02.30.04:533][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.21-02.30.04:538][969]LogWorld: UWorld::CleanupWorld for Level_1_O, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-02.30.04:538][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.30.04:561][969]LogSlate: Slate User Unregistered.  User Index 8
+[2026.04.21-02.30.04:561][969]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2026.04.21-02.30.04:561][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.21-02.30.04:579][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.21-02.30.04:610][969]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_O'.
+[2026.04.21-02.30.04:610][969]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1_O
+[2026.04.21-02.30.04:621][969]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2026.04.21-02.30.04:625][969]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2026.04.21-02.30.04:645][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.21-02.30.04:665][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.21-02.30.04:670][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.21-02.30.04:670][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2026.04.21-02.30.04:786][970]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-02.31.22:116][575]Cmd: DELETE
+[2026.04.21-02.31.22:119][575]Cmd: ACTOR DELETE
+[2026.04.21-02.31.22:139][575]LogStreaming: Display: FlushAsyncLoading(335): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-02.31.22:162][575]LogChaosDD: Creating Chaos Debug Draw Scene for world MenuLevel
+[2026.04.21-02.31.22:203][575]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_Turtorial
+[2026.04.21-02.31.22:254][575]LogChaosDD: Creating Chaos Debug Draw Scene for world MenuLevel_Copy
+[2026.04.21-02.31.22:274][575]LogEditorActor: Deleted Actor: BP_AutoMovePlatform_C
+[2026.04.21-02.31.22:292][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.21-02.31.22:297][575]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2026.04.21-02.31.25:188][746]Cmd: EDIT COPY
+[2026.04.21-02.31.26:537][827]Cmd: EDIT PASTE
+[2026.04.21-02.31.59:343][777]Cmd: EDIT COPY
+[2026.04.21-02.31.59:760][802]Cmd: EDIT PASTE
+[2026.04.21-02.33.00:164][405]Cmd: EDIT COPY
+[2026.04.21-02.33.00:598][431]Cmd: EDIT PASTE
+[2026.04.21-02.33.17:689][454]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.17:691][454]LogEditorTransaction: Undo Set Location
+[2026.04.21-02.33.21:103][642]Cmd: EDIT COPY
+[2026.04.21-02.33.21:333][654]Cmd: EDIT PASTE
+[2026.04.21-02.33.56:891][782]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.56:891][782]LogEditorTransaction: Undo Clicking on Actors
+[2026.04.21-02.33.57:460][799]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.57:460][799]LogEditorTransaction: Undo Clicking on Actors
+[2026.04.21-02.33.57:701][812]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.57:702][812]LogEditorTransaction: Undo Set Location
+[2026.04.21-02.33.57:877][822]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.57:877][822]LogEditorTransaction: Undo Paste
+[2026.04.21-02.33.58:078][832]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.58:078][832]LogEditorTransaction: Undo Set Location
+[2026.04.21-02.33.58:269][843]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.58:269][843]LogEditorTransaction: Undo Paste
+[2026.04.21-02.33.58:567][859]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.58:567][859]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.33.58:793][872]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.58:793][872]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.33.59:053][887]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.59:053][887]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.21-02.33.59:327][902]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.59:327][902]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.33.59:569][916]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.59:569][916]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.33.59:778][928]Cmd: TRANSACTION UNDO
+[2026.04.21-02.33.59:779][928]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.21-02.34.00:019][941]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.00:019][941]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.21-02.34.00:297][956]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.00:297][956]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.34.01:733][ 41]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.01:733][ 41]LogEditorTransaction: Undo Paste
+[2026.04.21-02.34.02:297][ 59]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.02:297][ 59]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.34.02:740][ 85]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.02:740][ 85]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.34.03:249][115]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.03:249][115]LogEditorTransaction: Undo Paste
+[2026.04.21-02.34.03:680][139]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.03:680][139]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.21-02.34.04:120][165]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.04:120][165]LogEditorTransaction: Undo Delete Elements
+[2026.04.21-02.34.13:239][708]Cmd: EDIT COPY
+[2026.04.21-02.34.20:260][128]Cmd: EDIT PASTE
+[2026.04.21-02.34.20:293][128]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.34.20:298][128]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.34.20:303][128]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.34.20:307][128]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.34.39:997][301]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.39:997][301]LogEditorTransaction: Undo Set Location
+[2026.04.21-02.34.41:012][345]Cmd: TRANSACTION UNDO
+[2026.04.21-02.34.41:012][345]LogEditorTransaction: Undo Paste
+[2026.04.21-02.34.47:857][751]Cmd: EDIT COPY
+[2026.04.21-02.35.02:291][616]Cmd: EDIT PASTE
+[2026.04.21-02.35.02:300][616]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.02:305][616]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.02:312][616]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.02:316][616]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.25:896][ 23]Cmd: DELETE
+[2026.04.21-02.35.25:897][ 23]Cmd: ACTOR DELETE
+[2026.04.21-02.35.25:902][ 23]LogEditorActor: Deleted Actor: BP_AutoMovePlatform_C
+[2026.04.21-02.35.25:926][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.21-02.35.25:934][ 23]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.04.21-02.35.28:318][166]Cmd: EDIT PASTE
+[2026.04.21-02.35.28:329][166]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.28:333][166]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.28:338][166]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.28:344][166]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.31:501][352]Cmd: EDIT PASTE
+[2026.04.21-02.35.31:511][352]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.31:515][352]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.31:520][352]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.31:524][352]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.32:286][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 642.549744
+[2026.04.21-02.35.32:486][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-02.35.32:486][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 642.732788, Update Interval: 314.852142
+[2026.04.21-02.35.35:426][580]Cmd: EDIT PASTE
+[2026.04.21-02.35.35:437][580]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.35:442][580]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.35:447][580]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.35:452][580]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.38:845][780]Cmd: EDIT PASTE
+[2026.04.21-02.35.38:856][780]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.38:859][780]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.38:865][780]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.38:870][780]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.47:574][298]Cmd: EDIT PASTE
+[2026.04.21-02.35.47:584][298]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.47:589][298]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.47:593][298]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.47:597][298]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.52:558][592]Cmd: EDIT PASTE
+[2026.04.21-02.35.52:567][592]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.52:571][592]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.52:575][592]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.35.52:579][592]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.38.13:502][948]Cmd: TRANSACTION UNDO
+[2026.04.21-02.38.13:502][948]LogEditorTransaction: Undo Move Elements
+[2026.04.21-02.40.53:784][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 964.047241
+[2026.04.21-02.40.53:903][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-02.40.53:903][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 964.149658, Update Interval: 321.264679
+[2026.04.21-02.42.04:019][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.21-02.42.04:144][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GroupProject/Maps/Level_1_O_Auto1
+[2026.04.21-02.42.04:144][684]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/Level_1_O_Auto1A9B915B74F4B40D4CAC68CA4FB77C4C1.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/Autosaves/Game/GroupProject/Maps/Level_1_O_Auto1.umap'
+[2026.04.21-02.42.04:147][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GroupProject/Maps/Level_1_O' took 0.155
+[2026.04.21-02.42.04:147][684]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.155
+[2026.04.21-02.42.55:464][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.21-02.42.55:584][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.21-02.46.26:059][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1296.325195
+[2026.04.21-02.46.26:159][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-02.46.26:159][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1296.408936, Update Interval: 319.175385
+[2026.04.21-02.46.50:437][186]Cmd: EDIT COPY
+[2026.04.21-02.46.51:754][265]Cmd: EDIT PASTE
+[2026.04.21-02.46.51:765][265]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_15" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.46.51:769][265]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_15" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.46.51:776][265]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_15" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.46.51:780][265]LogClass: Warning: Short type name "BP_AutoMovePlatform_C_15" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc63ccca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63fcdad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63ca26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc640430db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f51d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc63f746c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.04.21-02.47.57:430][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-02.47.57:436][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-02.47.57:441][183]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.04.21-02.47.57:441][183]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.04.21-02.47.57:441][183]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_Level_1_O
+[2026.04.21-02.47.57:460][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018563s)
+[2026.04.21-02.47.57:460][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/Level_1_O.Level_1_O to /Game/GroupProject/Maps/UEDPIE_0_Level_1_O.Level_1_O (0.018634s)
+[2026.04.21-02.47.57:491][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.21-02.47.57:499][183]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1_O
+[2026.04.21-02.47.57:501][183]LogPlayLevel: PIE: World Init took: (0.001882s)
+[2026.04.21-02.47.57:501][183]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-02.47.57:501][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-02.47.57:501][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-02.47.57:501][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-02.47.57:501][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-02.47.57:501][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-02.47.57:504][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-02.47.57:566][183]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.21-02.47.57:567][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-02.47.57:567][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-02.47.57:567][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-02.47.57:567][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.04.21-02.47.57:567][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.04.21-02.47.57:569][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.21-02.47.57:569][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.04.21-02.47.57:569][183]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.21-02.47.57:570][183]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_1_O'.
+[2026.04.21-02.47.57:570][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.21-02.47.57:573][183]LogLoad: Game class is 'GameModeBase'
+[2026.04.21-02.47.57:579][183]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_Level_1_O.Level_1_O up for play (max tick rate 60) at 2026.04.20-22.47.57
+[2026.04.21-02.47.57:580][183]LogWorld: Bringing up level for play took: 0.005526
+[2026.04.21-02.47.57:582][183]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.04.21-02.47.57:592][183]PIE: Server logged in
+[2026.04.21-02.47.57:595][183]PIE: Play in editor total start time 0.159 seconds.
+[2026.04.21-02.47.57:662][184]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-02.48.03:133][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-02.48.03:133][508]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_Level_1_O
+[2026.04.21-02.48.03:135][508]LogWorld: UWorld::CleanupWorld for Level_1_O, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-02.48.03:136][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.48.03:139][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-02.48.03:141][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.48.03:160][508]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.21-02.48.03:161][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.21-02.48.03:161][508]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.04.21-02.48.03:162][508]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.04.21-02.48.03:167][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-02.48.03:171][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.21-02.48.03:223][509]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.04.21-02.48.12:300][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.21-02.51.56:077][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-02.51.56:206][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.21-02.51.56:322][788]LogSavePackage: Moving output files for package: /Game/GroupProject/Maps/Level_1_O
+[2026.04.21-02.51.56:323][788]LogSavePackage: Moving '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Saved/Level_1_O87BD2A1A4C99F03970796496396A75C2.tmp' to '../../../../../../Users/olive/Documents/Unreal Projects/GroupProject/Content/GroupProject/Maps/Level_1_O.umap'
+[2026.04.21-02.51.56:330][788]LogFileHelpers: Saving map 'Level_1_O' took 0.158
+[2026.04.21-02.51.56:340][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.532 ms (total: 460.537 ms)
+[2026.04.21-02.51.56:464][788]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-02.51.56:465][788]LogContentValidation: Enabled validators:
+[2026.04.21-02.51.56:465][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-02.51.56:465][788]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-02.51.56:465][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-02.51.56:465][788]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-02.51.56:465][788]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-02.51.56:465][788]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-02.51.56:465][788]AssetCheck: /Game/GroupProject/Maps/Level_1_O Validating asset
+[2026.04.21-02.51.57:040][822]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-02.51.57:045][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-02.51.57:067][822]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_Level_1_O
+[2026.04.21-02.51.57:084][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015819s)
+[2026.04.21-02.51.57:084][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/Level_1_O.Level_1_O to /Game/GroupProject/Maps/UEDPIE_0_Level_1_O.Level_1_O (0.015906s)
+[2026.04.21-02.51.57:101][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.04.21-02.51.57:103][822]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1_O
+[2026.04.21-02.51.57:104][822]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2026.04.21-02.51.57:105][822]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-02.51.57:105][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-02.51.57:105][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-02.51.57:105][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-02.51.57:105][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-02.51.57:105][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-02.51.57:108][822]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-02.51.57:164][822]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.21-02.51.57:164][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-02.51.57:164][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-02.51.57:164][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-02.51.57:164][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.21-02.51.57:164][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.21-02.51.57:167][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.21-02.51.57:167][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.21-02.51.57:167][822]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.21-02.51.57:167][822]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_1_O'.
+[2026.04.21-02.51.57:167][822]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.21-02.51.57:174][822]LogLoad: Game class is 'GameModeBase'
+[2026.04.21-02.51.57:177][822]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_Level_1_O.Level_1_O up for play (max tick rate 60) at 2026.04.20-22.51.57
+[2026.04.21-02.51.57:179][822]LogWorld: Bringing up level for play took: 0.005097
+[2026.04.21-02.51.57:182][822]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.04.21-02.51.57:185][822]PIE: Server logged in
+[2026.04.21-02.51.57:187][822]PIE: Play in editor total start time 0.141 seconds.
+[2026.04.21-02.51.57:224][823]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-02.52.04:487][257]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:502][258]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:519][259]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:535][260]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:552][261]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:569][262]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:585][263]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:603][264]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:620][265]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:637][266]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:653][267]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:669][268]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:687][269]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:703][270]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:720][271]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:736][272]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:753][273]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:769][274]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:787][275]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:803][276]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:819][277]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:837][278]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:853][279]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:870][280]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:887][281]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:903][282]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:920][283]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:936][284]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:953][285]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:969][286]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.04:987][287]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:002][288]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:020][289]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:035][290]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:053][291]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:069][292]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:086][293]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:103][294]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:119][295]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:137][296]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:153][297]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:170][298]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:185][299]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:204][300]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:220][301]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:235][302]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:253][303]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:270][304]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:287][305]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:303][306]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:320][307]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:337][308]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:352][309]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:370][310]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:386][311]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:403][312]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:420][313]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:437][314]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:452][315]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:469][316]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:570][322]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:586][323]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:602][324]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:620][325]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:637][326]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:653][327]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:669][328]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:687][329]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:703][330]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:720][331]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:735][332]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:753][333]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:770][334]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:786][335]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:803][336]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:820][337]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:837][338]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:853][339]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:870][340]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:887][341]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:903][342]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:920][343]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:937][344]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:953][345]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:969][346]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.05:987][347]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:003][348]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:019][349]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:037][350]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:053][351]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:069][352]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:086][353]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:102][354]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:120][355]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:136][356]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:153][357]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:169][358]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:187][359]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:202][360]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:219][361]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:235][362]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:253][363]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:504][378]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:519][379]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:535][380]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:553][381]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:570][382]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:586][383]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:602][384]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:620][385]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.06:635][386]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.07:137][416]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.07:153][417]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.07:169][418]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.12:310][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1642.581177
+[2026.04.21-02.52.12:461][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-02.52.12:461][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1642.713745, Update Interval: 334.228943
+[2026.04.21-02.52.16:019][949]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:035][950]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:053][951]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:069][952]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:086][953]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:102][954]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:119][955]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:136][956]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:152][957]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:169][958]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:185][959]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:203][960]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:219][961]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:237][962]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:253][963]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:269][964]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:287][965]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:303][966]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:320][967]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:336][968]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:353][969]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:370][970]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:386][971]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:403][972]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:420][973]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:437][974]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:453][975]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:469][976]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:486][977]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:503][978]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:520][979]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:536][980]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:554][981]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:569][982]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:586][983]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:602][984]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:620][985]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:635][986]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:652][987]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:670][988]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:686][989]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:703][990]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:719][991]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:737][992]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:753][993]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:770][994]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:787][995]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:803][996]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:820][997]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:836][998]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:853][999]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:869][  0]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:887][  1]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:904][  2]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:920][  3]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:937][  4]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:953][  5]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:969][  6]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.16:985][  7]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:002][  8]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:019][  9]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:036][ 10]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:053][ 11]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:069][ 12]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:086][ 13]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:103][ 14]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:119][ 15]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:137][ 16]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:153][ 17]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:169][ 18]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:186][ 19]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:203][ 20]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:220][ 21]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:237][ 22]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:253][ 23]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:269][ 24]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:285][ 25]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:303][ 26]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:320][ 27]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:337][ 28]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:353][ 29]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:370][ 30]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:387][ 31]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:403][ 32]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:419][ 33]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:435][ 34]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:453][ 35]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:487][ 37]LogBlueprintUserMessages: [BP_MainCharacter_C_1] Current Health2
+[2026.04.21-02.52.17:703][ 50]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:719][ 51]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:736][ 52]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:752][ 53]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:769][ 54]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:786][ 55]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:802][ 56]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:819][ 57]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:837][ 58]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:853][ 59]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.17:869][ 60]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.21:608][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-02.52.21:609][282]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_Level_1_O
+[2026.04.21-02.52.21:609][282]LogWorld: UWorld::CleanupWorld for Level_1_O, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-02.52.21:610][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.52.21:613][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-02.52.21:617][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.52.21:635][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-02.52.21:636][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.21-02.52.21:636][282]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.21-02.52.21:638][282]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.21-02.52.21:646][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.04.21-02.52.21:698][283]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.04.21-02.52.24:361][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-02.52.24:366][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-02.52.24:398][441]LogPlayLevel: Creating play world package: /Game/GroupProject/Maps/UEDPIE_0_Level_1_O
+[2026.04.21-02.52.24:414][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015395s)
+[2026.04.21-02.52.24:414][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GroupProject/Maps/Level_1_O.Level_1_O to /Game/GroupProject/Maps/UEDPIE_0_Level_1_O.Level_1_O (0.015480s)
+[2026.04.21-02.52.24:431][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.21-02.52.24:433][441]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1_O
+[2026.04.21-02.52.24:435][441]LogPlayLevel: PIE: World Init took: (0.001771s)
+[2026.04.21-02.52.24:436][441]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-02.52.24:436][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-02.52.24:436][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-02.52.24:436][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-02.52.24:436][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-02.52.24:436][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-02.52.24:437][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-02.52.24:493][441]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.21-02.52.24:493][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-02.52.24:493][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-02.52.24:493][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-02.52.24:493][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.21-02.52.24:493][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.21-02.52.24:496][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.21-02.52.24:496][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.21-02.52.24:496][441]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.21-02.52.24:496][441]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1_O'.
+[2026.04.21-02.52.24:496][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.21-02.52.24:500][441]LogLoad: Game class is 'GameModeBase'
+[2026.04.21-02.52.24:504][441]LogWorld: Bringing World /Game/GroupProject/Maps/UEDPIE_0_Level_1_O.Level_1_O up for play (max tick rate 60) at 2026.04.20-22.52.24
+[2026.04.21-02.52.24:505][441]LogWorld: Bringing up level for play took: 0.004934
+[2026.04.21-02.52.24:508][441]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.04.21-02.52.24:511][441]PIE: Server logged in
+[2026.04.21-02.52.24:513][441]PIE: Play in editor total start time 0.147 seconds.
+[2026.04.21-02.52.24:550][442]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-02.52.36:590][163]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:606][164]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:622][165]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:640][166]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:656][167]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:673][168]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:689][169]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:706][170]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:723][171]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:738][172]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:755][173]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:773][174]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:788][175]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:806][176]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:823][177]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:840][178]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:855][179]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:873][180]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:889][181]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:906][182]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:923][183]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:940][184]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:956][185]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:973][186]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.36:988][187]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.37:006][188]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.37:023][189]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.37:039][190]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.37:056][191]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.37:323][207]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:340][208]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:356][209]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:373][210]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:388][211]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:406][212]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:423][213]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:440][214]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:456][215]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:473][216]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:490][217]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:506][218]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:522][219]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:540][220]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:556][221]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:573][222]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:590][223]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:606][224]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:623][225]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:640][226]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:656][227]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:673][228]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:689][229]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:706][230]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:723][231]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:740][232]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:756][233]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:772][234]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:790][235]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:806][236]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:822][237]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:839][238]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.37:856][239]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.52.39:556][341]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:573][342]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:589][343]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:606][344]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:623][345]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:640][346]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:656][347]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:673][348]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:688][349]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:705][350]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:722][351]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:739][352]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:756][353]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:773][354]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:788][355]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:805][356]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:822][357]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:838][358]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:856][359]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:872][360]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:889][361]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:906][362]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:923][363]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:938][364]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:956][365]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:973][366]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.39:989][367]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:006][368]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:023][369]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:038][370]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:055][371]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:072][372]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:088][373]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:106][374]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:123][375]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:139][376]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:156][377]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:172][378]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:188][379]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:206][380]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:222][381]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:238][382]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:256][383]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:273][384]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:289][385]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:306][386]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:323][387]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:339][388]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:356][389]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:372][390]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:388][391]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:406][392]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:422][393]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:439][394]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:456][395]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:472][396]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:488][397]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:505][398]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:522][399]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:538][400]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:556][401]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:572][402]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:590][403]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:606][404]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.40:623][405]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:006][428]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:022][429]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:039][430]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:055][431]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:072][432]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:088][433]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:106][434]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:122][435]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:139][436]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:156][437]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:173][438]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:188][439]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:206][440]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:222][441]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:238][442]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:256][443]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:272][444]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:288][445]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:306][446]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:322][447]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:338][448]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:355][449]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:372][450]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:388][451]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:406][452]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:422][453]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:438][454]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:456][455]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:472][456]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:488][457]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:505][458]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:523][459]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:540][460]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:706][470]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:722][471]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:738][472]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:756][473]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:772][474]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:788][475]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:806][476]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.41:822][477]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:456][575]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:472][576]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:489][577]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:506][578]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:522][579]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:538][580]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:556][581]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:572][582]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:589][583]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:606][584]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:622][585]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:640][586]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:656][587]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:672][588]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:690][589]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:706][590]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:723][591]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:740][592]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:756][593]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:772][594]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:790][595]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:806][596]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:823][597]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:840][598]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:856][599]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:872][600]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:889][601]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:906][602]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:923][603]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:940][604]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:956][605]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:972][606]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.43:988][607]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:006][608]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:023][609]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:040][610]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:056][611]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:072][612]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:089][613]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:107][614]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:122][615]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:140][616]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:156][617]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:172][618]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:190][619]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:206][620]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:222][621]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:238][622]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:256][623]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:272][624]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:288][625]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:306][626]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:322][627]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:339][628]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:355][629]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:372][630]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:388][631]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:406][632]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:422][633]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:440][634]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:456][635]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:472][636]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:489][637]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:506][638]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:522][639]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:538][640]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:556][641]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:572][642]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:588][643]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:606][644]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:623][645]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:640][646]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:656][647]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:672][648]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:688][649]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:706][650]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:722][651]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:739][652]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:756][653]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:772][654]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:789][655]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:806][656]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:822][657]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:838][658]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:856][659]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:872][660]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:889][661]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:906][662]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:922][663]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:940][664]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:956][665]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:972][666]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.44:988][667]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.45:006][668]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.45:023][669]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:589][ 63]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:606][ 64]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:623][ 65]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:639][ 66]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:656][ 67]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:674][ 68]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:690][ 69]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:706][ 70]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:723][ 71]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:740][ 72]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:756][ 73]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:773][ 74]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:790][ 75]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:806][ 76]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:823][ 77]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:840][ 78]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:856][ 79]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:873][ 80]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:890][ 81]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:906][ 82]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:923][ 83]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:940][ 84]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:956][ 85]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:973][ 86]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.51:990][ 87]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:006][ 88]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:023][ 89]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:040][ 90]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:056][ 91]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:073][ 92]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:089][ 93]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:107][ 94]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:123][ 95]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:140][ 96]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:156][ 97]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:173][ 98]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:190][ 99]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:206][100]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:223][101]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:241][102]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:256][103]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:273][104]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:289][105]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:306][106]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:323][107]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:340][108]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:473][116]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:489][117]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:506][118]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:523][119]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:539][120]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:556][121]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:573][122]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:589][123]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:606][124]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:622][125]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:640][126]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:655][127]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:673][128]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:689][129]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:706][130]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:723][131]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:740][132]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:757][133]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:773][134]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:789][135]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:806][136]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:823][137]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:873][140]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:889][141]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:906][142]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:923][143]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:939][144]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.52:956][145]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:632][545]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:649][546]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:666][547]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:682][548]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:699][549]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:715][550]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:732][551]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:749][552]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:765][553]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:782][554]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:799][555]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:815][556]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:832][557]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:849][558]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:865][559]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:882][560]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:899][561]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:915][562]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:932][563]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:949][564]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:965][565]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:982][566]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.52.59:998][567]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:015][568]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:032][569]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:049][570]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:066][571]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:082][572]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:099][573]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:115][574]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:133][575]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:149][576]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:166][577]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:182][578]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:199][579]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:215][580]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:232][581]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:249][582]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:265][583]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:282][584]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:299][585]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:315][586]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:331][587]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:348][588]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:365][589]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:381][590]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:399][591]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:415][592]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:431][593]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:449][594]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:465][595]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:481][596]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:499][597]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:515][598]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:532][599]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:616][604]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.00:631][605]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:099][633]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:115][634]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:131][635]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:148][636]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:165][637]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:182][638]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:198][639]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:215][640]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.01:231][641]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:799][855]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:816][856]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:832][857]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:849][858]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:865][859]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:882][860]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:898][861]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:915][862]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:932][863]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:948][864]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:965][865]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:981][866]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.04:999][867]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:015][868]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:032][869]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:050][870]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:065][871]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:082][872]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:099][873]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:115][874]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:132][875]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:148][876]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:165][877]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:182][878]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:199][879]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:215][880]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:232][881]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:249][882]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:265][883]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:282][884]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:299][885]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:315][886]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:332][887]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:349][888]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:365][889]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:382][890]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:399][891]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:415][892]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:432][893]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:449][894]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:465][895]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:482][896]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:499][897]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:515][898]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:532][899]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:548][900]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:565][901]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:582][902]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:598][903]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:615][904]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:631][905]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:649][906]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:665][907]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:682][908]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:699][909]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:715][910]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:732][911]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:749][912]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:765][913]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:782][914]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:799][915]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.05:815][916]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:565][961]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:582][962]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:598][963]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:615][964]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:631][965]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:649][966]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:665][967]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:681][968]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:698][969]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:931][983]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:948][984]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:965][985]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:982][986]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.06:998][987]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.07:015][988]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.07:032][989]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:831][ 97]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:848][ 98]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:865][ 99]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:881][100]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:898][101]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:915][102]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:931][103]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:948][104]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:964][105]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:982][106]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.08:998][107]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:015][108]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:031][109]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:049][110]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:065][111]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:082][112]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:098][113]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:115][114]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:132][115]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:148][116]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:165][117]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:181][118]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:198][119]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:215][120]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:231][121]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:249][122]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:265][123]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:281][124]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:299][125]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:315][126]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:331][127]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:348][128]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:365][129]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:382][130]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:399][131]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:416][132]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:432][133]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:449][134]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:465][135]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:482][136]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:499][137]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:515][138]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:532][139]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:549][140]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:565][141]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:582][142]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:599][143]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:615][144]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:632][145]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:649][146]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:665][147]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:682][148]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:698][149]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:715][150]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:731][151]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:748][152]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:765][153]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:781][154]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:799][155]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:815][156]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:831][157]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:849][158]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:865][159]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:882][160]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:898][161]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:915][162]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:932][163]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:949][164]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.09:965][165]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:899][401]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:915][402]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:931][403]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:949][404]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:965][405]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:983][406]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.13:999][407]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:016][408]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:032][409]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:049][410]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:066][411]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:083][412]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:098][413]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:115][414]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:132][415]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:149][416]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:165][417]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:182][418]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:198][419]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:216][420]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:232][421]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:248][422]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:265][423]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:282][424]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:299][425]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:315][426]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:332][427]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:348][428]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:365][429]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:383][430]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:399][431]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:415][432]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:432][433]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:449][434]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:465][435]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:482][436]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:499][437]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:515][438]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:532][439]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:549][440]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:565][441]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:582][442]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:599][443]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:616][444]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:632][445]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:649][446]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:665][447]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:682][448]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:698][449]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:715][450]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:731][451]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:748][452]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:765][453]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:781][454]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:799][455]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:815][456]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:831][457]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:848][458]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:865][459]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:882][460]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:899][461]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:915][462]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:932][463]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:948][464]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:964][465]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:982][466]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.14:998][467]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.15:015][468]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.15:031][469]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.15:049][470]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.15:064][471]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.15:082][472]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, 1.0
+[2026.04.21-02.53.15:132][475]LogBlueprintUserMessages: [BP_MainCharacter_C_1] Current Health2
+[2026.04.21-02.53.16:233][541]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:249][542]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:266][543]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:283][544]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:299][545]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:316][546]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:332][547]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:349][548]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:365][549]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:382][550]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:399][551]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:416][552]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:432][553]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:449][554]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:466][555]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:483][556]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:499][557]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:516][558]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:533][559]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:549][560]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:566][561]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:583][562]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:599][563]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:616][564]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:633][565]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:649][566]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:665][567]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:682][568]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.16:699][569]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:232][661]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:248][662]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:265][663]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:282][664]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:299][665]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:315][666]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:332][667]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:348][668]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:366][669]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:381][670]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:398][671]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:415][672]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:431][673]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:448][674]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:465][675]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:481][676]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:498][677]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:516][678]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:533][679]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:549][680]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:565][681]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:582][682]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:599][683]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:616][684]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:633][685]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:649][686]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:666][687]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:683][688]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:698][689]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:715][690]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:733][691]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:749][692]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:765][693]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:782][694]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:799][695]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:816][696]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:832][697]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:849][698]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:866][699]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:882][700]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:899][701]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:916][702]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:933][703]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:948][704]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:966][705]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:982][706]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.18:999][707]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:015][708]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:032][709]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:049][710]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:065][711]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:082][712]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:099][713]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:116][714]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:133][715]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:149][716]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:166][717]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:183][718]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:199][719]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:215][720]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:233][721]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:249][722]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:266][723]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:282][724]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:299][725]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:315][726]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:332][727]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:349][728]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:366][729]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:382][730]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:400][731]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:416][732]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:432][733]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:448][734]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:465][735]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:482][736]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:499][737]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:516][738]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:533][739]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:549][740]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:565][741]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:582][742]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:599][743]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:616][744]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:632][745]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:649][746]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:666][747]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:683][748]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:699][749]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:715][750]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:733][751]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:749][752]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:765][753]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:783][754]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:799][755]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:816][756]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:832][757]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:849][758]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:866][759]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:882][760]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:899][761]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:916][762]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:932][763]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:949][764]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:966][765]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:982][766]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.19:999][767]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:016][768]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:031][769]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:048][770]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:065][771]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:083][772]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:099][773]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:116][774]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:133][775]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:149][776]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:166][777]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:182][778]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:199][779]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:215][780]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:232][781]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:250][782]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:266][783]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:283][784]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:299][785]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:316][786]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:333][787]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:349][788]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:366][789]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:382][790]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:399][791]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:415][792]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:432][793]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:449][794]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:466][795]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:483][796]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:498][797]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:515][798]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:532][799]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:548][800]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:566][801]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:582][802]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:598][803]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:616][804]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:632][805]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:648][806]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:665][807]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.20:682][808]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:483][856]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:498][857]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:516][858]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:532][859]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:548][860]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:565][861]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:582][862]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:599][863]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:615][864]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:632][865]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:648][866]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:665][867]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:681][868]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:698][869]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:716][870]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:732][871]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:749][872]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:766][873]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:782][874]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:798][875]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:815][876]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:832][877]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:848][878]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:865][879]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:881][880]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:898][881]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:916][882]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:932][883]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:948][884]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:965][885]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:982][886]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.21:999][887]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:016][888]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:032][889]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:048][890]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:065][891]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:081][892]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:098][893]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:115][894]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:132][895]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:148][896]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:165][897]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:181][898]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:199][899]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:216][900]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:233][901]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:249][902]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:265][903]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:283][904]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:298][905]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:316][906]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:332][907]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:348][908]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:365][909]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:381][910]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:399][911]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:415][912]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:432][913]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:448][914]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:466][915]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:483][916]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:498][917]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:516][918]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.22:532][919]LogBlueprintUserMessages: [BP_MainCharacter_C_1] MovementValue, -1.0
+[2026.04.21-02.53.36:939][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-02.53.36:939][782]LogWorld: BeginTearingDown for /Game/GroupProject/Maps/UEDPIE_0_Level_1_O
+[2026.04.21-02.53.36:939][782]LogWorld: UWorld::CleanupWorld for Level_1_O, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-02.53.36:942][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.53.36:944][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-02.53.36:947][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-02.53.36:965][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-02.53.36:966][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.21-02.53.36:966][782]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.21-02.53.36:968][782]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.21-02.53.36:981][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.21-02.53.37:037][783]LogPlayLevel: Display: Destroying online subsystem :Context_6
